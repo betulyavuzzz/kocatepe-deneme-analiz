@@ -1,0 +1,20 @@
+# KVKK: Gerçek öğrenci verisi ASLA depoya eklenmez.
+# Gerçek sonuç dosyalarını ve yedekleri bu klasörlerde tutun (ya da depo dışında).
+veri/
+yedekler/
+gercek-veri/
+kocatepe-deneme-yedek-*.json
+
+# Gerçek yayınevi dosyaları yanlışlıkla eklenmesin.
+# (Uydurma örnek veriler yalnızca ornek-veri/ klasöründedir.)
+*.xlsx
+*.xls
+*.ods
+*.pdf
+*.csv
+!ornek-veri/*.csv
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
+node_modules/

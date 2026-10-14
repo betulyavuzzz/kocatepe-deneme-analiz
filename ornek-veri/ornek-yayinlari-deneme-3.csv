@@ -1,0 +1,901 @@
+OgrenciNo;AdSoyad;Sinif;Ders;SoruNo;KazanimKodu;KazanimAciklama;DogruCevap;OgrenciCevabi
+101;Ada Yıldız;8-A;Türkçe;1;T.8.1;Sözcükte ve söz öbeklerinde anlam;C;C
+101;Ada Yıldız;8-A;Türkçe;2;T.8.1;Sözcükte ve söz öbeklerinde anlam;C;B
+101;Ada Yıldız;8-A;Türkçe;3;T.8.1;Sözcükte ve söz öbeklerinde anlam;B;B
+101;Ada Yıldız;8-A;Türkçe;4;T.8.1;Sözcükte ve söz öbeklerinde anlam;D;
+101;Ada Yıldız;8-A;Türkçe;5;T.8.2;Cümlede anlam;B;B
+101;Ada Yıldız;8-A;Türkçe;6;T.8.2;Cümlede anlam;B;B
+101;Ada Yıldız;8-A;Türkçe;7;T.8.2;Cümlede anlam;A;C
+101;Ada Yıldız;8-A;Türkçe;8;T.8.2;Cümlede anlam;C;C
+101;Ada Yıldız;8-A;Türkçe;9;T.8.3;Paragrafta ana fikir ve yardımcı fikir;C;A
+101;Ada Yıldız;8-A;Türkçe;10;T.8.3;Paragrafta ana fikir ve yardımcı fikir;D;C
+101;Ada Yıldız;8-A;Türkçe;11;T.8.3;Paragrafta ana fikir ve yardımcı fikir;A;A
+101;Ada Yıldız;8-A;Türkçe;12;T.8.3;Paragrafta ana fikir ve yardımcı fikir;B;D
+101;Ada Yıldız;8-A;Türkçe;13;T.8.4;Fiilimsiler;B;C
+101;Ada Yıldız;8-A;Türkçe;14;T.8.4;Fiilimsiler;C;A
+101;Ada Yıldız;8-A;Türkçe;15;T.8.4;Fiilimsiler;D;D
+101;Ada Yıldız;8-A;Türkçe;16;T.8.4;Fiilimsiler;A;A
+101;Ada Yıldız;8-A;Türkçe;17;T.8.5;Cümlenin ögeleri;B;B
+101;Ada Yıldız;8-A;Türkçe;18;T.8.5;Cümlenin ögeleri;C;C
+101;Ada Yıldız;8-A;Türkçe;19;T.8.5;Cümlenin ögeleri;C;
+101;Ada Yıldız;8-A;Türkçe;20;T.8.5;Cümlenin ögeleri;D;D
+101;Ada Yıldız;8-A;Matematik;1;M.8.1;Çarpanlar ve katlar;D;D
+101;Ada Yıldız;8-A;Matematik;2;M.8.1;Çarpanlar ve katlar;C;C
+101;Ada Yıldız;8-A;Matematik;3;M.8.1;Çarpanlar ve katlar;B;C
+101;Ada Yıldız;8-A;Matematik;4;M.8.1;Çarpanlar ve katlar;B;B
+101;Ada Yıldız;8-A;Matematik;5;M.8.2;Üslü ifadeler;C;B
+101;Ada Yıldız;8-A;Matematik;6;M.8.2;Üslü ifadeler;B;B
+101;Ada Yıldız;8-A;Matematik;7;M.8.2;Üslü ifadeler;D;B
+101;Ada Yıldız;8-A;Matematik;8;M.8.2;Üslü ifadeler;C;B
+101;Ada Yıldız;8-A;Matematik;9;M.8.3;Kareköklü ifadeler;A;A
+101;Ada Yıldız;8-A;Matematik;10;M.8.3;Kareköklü ifadeler;A;D
+101;Ada Yıldız;8-A;Matematik;11;M.8.3;Kareköklü ifadeler;B;B
+101;Ada Yıldız;8-A;Matematik;12;M.8.3;Kareköklü ifadeler;C;A
+101;Ada Yıldız;8-A;Matematik;13;M.8.4;Veri analizi;B;B
+101;Ada Yıldız;8-A;Matematik;14;M.8.4;Veri analizi;A;A
+101;Ada Yıldız;8-A;Matematik;15;M.8.4;Veri analizi;C;C
+101;Ada Yıldız;8-A;Matematik;16;M.8.4;Veri analizi;A;C
+101;Ada Yıldız;8-A;Matematik;17;M.8.5;Basit olayların olma olasılığı;D;A
+101;Ada Yıldız;8-A;Matematik;18;M.8.5;Basit olayların olma olasılığı;C;
+101;Ada Yıldız;8-A;Matematik;19;M.8.5;Basit olayların olma olasılığı;B;B
+101;Ada Yıldız;8-A;Matematik;20;M.8.5;Basit olayların olma olasılığı;D;C
+101;Ada Yıldız;8-A;Fen Bilimleri;1;F.8.1;Mevsimler ve iklim;C;C
+101;Ada Yıldız;8-A;Fen Bilimleri;2;F.8.1;Mevsimler ve iklim;A;C
+101;Ada Yıldız;8-A;Fen Bilimleri;3;F.8.1;Mevsimler ve iklim;B;D
+101;Ada Yıldız;8-A;Fen Bilimleri;4;F.8.1;Mevsimler ve iklim;B;B
+101;Ada Yıldız;8-A;Fen Bilimleri;5;F.8.1;Mevsimler ve iklim;C;C
+101;Ada Yıldız;8-A;Fen Bilimleri;6;F.8.2;DNA ve genetik kod;B;A
+101;Ada Yıldız;8-A;Fen Bilimleri;7;F.8.2;DNA ve genetik kod;B;B
+101;Ada Yıldız;8-A;Fen Bilimleri;8;F.8.2;DNA ve genetik kod;C;C
+101;Ada Yıldız;8-A;Fen Bilimleri;9;F.8.2;DNA ve genetik kod;A;
+101;Ada Yıldız;8-A;Fen Bilimleri;10;F.8.2;DNA ve genetik kod;D;D
+101;Ada Yıldız;8-A;Fen Bilimleri;11;F.8.3;Basınç;A;A
+101;Ada Yıldız;8-A;Fen Bilimleri;12;F.8.3;Basınç;A;A
+101;Ada Yıldız;8-A;Fen Bilimleri;13;F.8.3;Basınç;A;A
+101;Ada Yıldız;8-A;Fen Bilimleri;14;F.8.3;Basınç;D;C
+101;Ada Yıldız;8-A;Fen Bilimleri;15;F.8.3;Basınç;D;D
+101;Ada Yıldız;8-A;Fen Bilimleri;16;F.8.4;Madde ve endüstri;C;A
+101;Ada Yıldız;8-A;Fen Bilimleri;17;F.8.4;Madde ve endüstri;B;
+101;Ada Yıldız;8-A;Fen Bilimleri;18;F.8.4;Madde ve endüstri;B;C
+101;Ada Yıldız;8-A;Fen Bilimleri;19;F.8.4;Madde ve endüstri;B;A
+101;Ada Yıldız;8-A;Fen Bilimleri;20;F.8.4;Madde ve endüstri;D;
+101;Ada Yıldız;8-A;T.C. İnkılap Tarihi;1;İTA.8.1;Bir kahraman doğuyor;C;C
+101;Ada Yıldız;8-A;T.C. İnkılap Tarihi;2;İTA.8.1;Bir kahraman doğuyor;D;D
+101;Ada Yıldız;8-A;T.C. İnkılap Tarihi;3;İTA.8.1;Bir kahraman doğuyor;D;D
+101;Ada Yıldız;8-A;T.C. İnkılap Tarihi;4;İTA.8.1;Bir kahraman doğuyor;A;A
+101;Ada Yıldız;8-A;T.C. İnkılap Tarihi;5;İTA.8.1;Bir kahraman doğuyor;D;A
+101;Ada Yıldız;8-A;T.C. İnkılap Tarihi;6;İTA.8.2;Millî uyanış;C;C
+101;Ada Yıldız;8-A;T.C. İnkılap Tarihi;7;İTA.8.2;Millî uyanış;B;D
+101;Ada Yıldız;8-A;T.C. İnkılap Tarihi;8;İTA.8.2;Millî uyanış;A;A
+101;Ada Yıldız;8-A;T.C. İnkılap Tarihi;9;İTA.8.2;Millî uyanış;C;C
+101;Ada Yıldız;8-A;T.C. İnkılap Tarihi;10;İTA.8.2;Millî uyanış;A;D
+101;Ada Yıldız;8-A;Din Kültürü;1;DKAB.8.1;Kader inancı;B;B
+101;Ada Yıldız;8-A;Din Kültürü;2;DKAB.8.1;Kader inancı;C;A
+101;Ada Yıldız;8-A;Din Kültürü;3;DKAB.8.1;Kader inancı;D;D
+101;Ada Yıldız;8-A;Din Kültürü;4;DKAB.8.1;Kader inancı;A;C
+101;Ada Yıldız;8-A;Din Kültürü;5;DKAB.8.1;Kader inancı;C;D
+101;Ada Yıldız;8-A;Din Kültürü;6;DKAB.8.2;Zekât ve sadaka;A;
+101;Ada Yıldız;8-A;Din Kültürü;7;DKAB.8.2;Zekât ve sadaka;D;
+101;Ada Yıldız;8-A;Din Kültürü;8;DKAB.8.2;Zekât ve sadaka;C;B
+101;Ada Yıldız;8-A;Din Kültürü;9;DKAB.8.2;Zekât ve sadaka;A;
+101;Ada Yıldız;8-A;Din Kültürü;10;DKAB.8.2;Zekât ve sadaka;C;
+101;Ada Yıldız;8-A;İngilizce;1;E.8.1;Friendship;A;C
+101;Ada Yıldız;8-A;İngilizce;2;E.8.1;Friendship;C;C
+101;Ada Yıldız;8-A;İngilizce;3;E.8.1;Friendship;D;
+101;Ada Yıldız;8-A;İngilizce;4;E.8.1;Friendship;B;B
+101;Ada Yıldız;8-A;İngilizce;5;E.8.2;Teen life;D;D
+101;Ada Yıldız;8-A;İngilizce;6;E.8.2;Teen life;A;C
+101;Ada Yıldız;8-A;İngilizce;7;E.8.2;Teen life;A;A
+101;Ada Yıldız;8-A;İngilizce;8;E.8.3;In the kitchen;C;A
+101;Ada Yıldız;8-A;İngilizce;9;E.8.3;In the kitchen;D;D
+101;Ada Yıldız;8-A;İngilizce;10;E.8.3;In the kitchen;D;A
+102;Bora Kaya;8-A;Türkçe;1;T.8.1;Sözcükte ve söz öbeklerinde anlam;C;C
+102;Bora Kaya;8-A;Türkçe;2;T.8.1;Sözcükte ve söz öbeklerinde anlam;C;
+102;Bora Kaya;8-A;Türkçe;3;T.8.1;Sözcükte ve söz öbeklerinde anlam;B;
+102;Bora Kaya;8-A;Türkçe;4;T.8.1;Sözcükte ve söz öbeklerinde anlam;D;
+102;Bora Kaya;8-A;Türkçe;5;T.8.2;Cümlede anlam;B;C
+102;Bora Kaya;8-A;Türkçe;6;T.8.2;Cümlede anlam;B;
+102;Bora Kaya;8-A;Türkçe;7;T.8.2;Cümlede anlam;A;C
+102;Bora Kaya;8-A;Türkçe;8;T.8.2;Cümlede anlam;C;B
+102;Bora Kaya;8-A;Türkçe;9;T.8.3;Paragrafta ana fikir ve yardımcı fikir;C;
+102;Bora Kaya;8-A;Türkçe;10;T.8.3;Paragrafta ana fikir ve yardımcı fikir;D;D
+102;Bora Kaya;8-A;Türkçe;11;T.8.3;Paragrafta ana fikir ve yardımcı fikir;A;A
+102;Bora Kaya;8-A;Türkçe;12;T.8.3;Paragrafta ana fikir ve yardımcı fikir;B;C
+102;Bora Kaya;8-A;Türkçe;13;T.8.4;Fiilimsiler;B;D
+102;Bora Kaya;8-A;Türkçe;14;T.8.4;Fiilimsiler;C;D
+102;Bora Kaya;8-A;Türkçe;15;T.8.4;Fiilimsiler;D;D
+102;Bora Kaya;8-A;Türkçe;16;T.8.4;Fiilimsiler;A;A
+102;Bora Kaya;8-A;Türkçe;17;T.8.5;Cümlenin ögeleri;B;
+102;Bora Kaya;8-A;Türkçe;18;T.8.5;Cümlenin ögeleri;C;D
+102;Bora Kaya;8-A;Türkçe;19;T.8.5;Cümlenin ögeleri;C;C
+102;Bora Kaya;8-A;Türkçe;20;T.8.5;Cümlenin ögeleri;D;D
+102;Bora Kaya;8-A;Matematik;1;M.8.1;Çarpanlar ve katlar;D;
+102;Bora Kaya;8-A;Matematik;2;M.8.1;Çarpanlar ve katlar;C;A
+102;Bora Kaya;8-A;Matematik;3;M.8.1;Çarpanlar ve katlar;B;A
+102;Bora Kaya;8-A;Matematik;4;M.8.1;Çarpanlar ve katlar;B;C
+102;Bora Kaya;8-A;Matematik;5;M.8.2;Üslü ifadeler;C;C
+102;Bora Kaya;8-A;Matematik;6;M.8.2;Üslü ifadeler;B;C
+102;Bora Kaya;8-A;Matematik;7;M.8.2;Üslü ifadeler;D;
+102;Bora Kaya;8-A;Matematik;8;M.8.2;Üslü ifadeler;C;D
+102;Bora Kaya;8-A;Matematik;9;M.8.3;Kareköklü ifadeler;A;A
+102;Bora Kaya;8-A;Matematik;10;M.8.3;Kareköklü ifadeler;A;A
+102;Bora Kaya;8-A;Matematik;11;M.8.3;Kareköklü ifadeler;B;B
+102;Bora Kaya;8-A;Matematik;12;M.8.3;Kareköklü ifadeler;C;C
+102;Bora Kaya;8-A;Matematik;13;M.8.4;Veri analizi;B;D
+102;Bora Kaya;8-A;Matematik;14;M.8.4;Veri analizi;A;
+102;Bora Kaya;8-A;Matematik;15;M.8.4;Veri analizi;C;C
+102;Bora Kaya;8-A;Matematik;16;M.8.4;Veri analizi;A;C
+102;Bora Kaya;8-A;Matematik;17;M.8.5;Basit olayların olma olasılığı;D;C
+102;Bora Kaya;8-A;Matematik;18;M.8.5;Basit olayların olma olasılığı;C;C
+102;Bora Kaya;8-A;Matematik;19;M.8.5;Basit olayların olma olasılığı;B;D
+102;Bora Kaya;8-A;Matematik;20;M.8.5;Basit olayların olma olasılığı;D;
+102;Bora Kaya;8-A;Fen Bilimleri;1;F.8.1;Mevsimler ve iklim;C;C
+102;Bora Kaya;8-A;Fen Bilimleri;2;F.8.1;Mevsimler ve iklim;A;C
+102;Bora Kaya;8-A;Fen Bilimleri;3;F.8.1;Mevsimler ve iklim;B;B
+102;Bora Kaya;8-A;Fen Bilimleri;4;F.8.1;Mevsimler ve iklim;B;D
+102;Bora Kaya;8-A;Fen Bilimleri;5;F.8.1;Mevsimler ve iklim;C;A
+102;Bora Kaya;8-A;Fen Bilimleri;6;F.8.2;DNA ve genetik kod;B;
+102;Bora Kaya;8-A;Fen Bilimleri;7;F.8.2;DNA ve genetik kod;B;A
+102;Bora Kaya;8-A;Fen Bilimleri;8;F.8.2;DNA ve genetik kod;C;B
+102;Bora Kaya;8-A;Fen Bilimleri;9;F.8.2;DNA ve genetik kod;A;A
+102;Bora Kaya;8-A;Fen Bilimleri;10;F.8.2;DNA ve genetik kod;D;D
+102;Bora Kaya;8-A;Fen Bilimleri;11;F.8.3;Basınç;A;
+102;Bora Kaya;8-A;Fen Bilimleri;12;F.8.3;Basınç;A;A
+102;Bora Kaya;8-A;Fen Bilimleri;13;F.8.3;Basınç;A;B
+102;Bora Kaya;8-A;Fen Bilimleri;14;F.8.3;Basınç;D;D
+102;Bora Kaya;8-A;Fen Bilimleri;15;F.8.3;Basınç;D;C
+102;Bora Kaya;8-A;Fen Bilimleri;16;F.8.4;Madde ve endüstri;C;
+102;Bora Kaya;8-A;Fen Bilimleri;17;F.8.4;Madde ve endüstri;B;D
+102;Bora Kaya;8-A;Fen Bilimleri;18;F.8.4;Madde ve endüstri;B;
+102;Bora Kaya;8-A;Fen Bilimleri;19;F.8.4;Madde ve endüstri;B;
+102;Bora Kaya;8-A;Fen Bilimleri;20;F.8.4;Madde ve endüstri;D;D
+102;Bora Kaya;8-A;T.C. İnkılap Tarihi;1;İTA.8.1;Bir kahraman doğuyor;C;
+102;Bora Kaya;8-A;T.C. İnkılap Tarihi;2;İTA.8.1;Bir kahraman doğuyor;D;
+102;Bora Kaya;8-A;T.C. İnkılap Tarihi;3;İTA.8.1;Bir kahraman doğuyor;D;A
+102;Bora Kaya;8-A;T.C. İnkılap Tarihi;4;İTA.8.1;Bir kahraman doğuyor;A;C
+102;Bora Kaya;8-A;T.C. İnkılap Tarihi;5;İTA.8.1;Bir kahraman doğuyor;D;D
+102;Bora Kaya;8-A;T.C. İnkılap Tarihi;6;İTA.8.2;Millî uyanış;C;
+102;Bora Kaya;8-A;T.C. İnkılap Tarihi;7;İTA.8.2;Millî uyanış;B;C
+102;Bora Kaya;8-A;T.C. İnkılap Tarihi;8;İTA.8.2;Millî uyanış;A;A
+102;Bora Kaya;8-A;T.C. İnkılap Tarihi;9;İTA.8.2;Millî uyanış;C;C
+102;Bora Kaya;8-A;T.C. İnkılap Tarihi;10;İTA.8.2;Millî uyanış;A;A
+102;Bora Kaya;8-A;Din Kültürü;1;DKAB.8.1;Kader inancı;B;
+102;Bora Kaya;8-A;Din Kültürü;2;DKAB.8.1;Kader inancı;C;B
+102;Bora Kaya;8-A;Din Kültürü;3;DKAB.8.1;Kader inancı;D;D
+102;Bora Kaya;8-A;Din Kültürü;4;DKAB.8.1;Kader inancı;A;A
+102;Bora Kaya;8-A;Din Kültürü;5;DKAB.8.1;Kader inancı;C;
+102;Bora Kaya;8-A;Din Kültürü;6;DKAB.8.2;Zekât ve sadaka;A;
+102;Bora Kaya;8-A;Din Kültürü;7;DKAB.8.2;Zekât ve sadaka;D;A
+102;Bora Kaya;8-A;Din Kültürü;8;DKAB.8.2;Zekât ve sadaka;C;
+102;Bora Kaya;8-A;Din Kültürü;9;DKAB.8.2;Zekât ve sadaka;A;C
+102;Bora Kaya;8-A;Din Kültürü;10;DKAB.8.2;Zekât ve sadaka;C;C
+102;Bora Kaya;8-A;İngilizce;1;E.8.1;Friendship;A;
+102;Bora Kaya;8-A;İngilizce;2;E.8.1;Friendship;C;C
+102;Bora Kaya;8-A;İngilizce;3;E.8.1;Friendship;D;C
+102;Bora Kaya;8-A;İngilizce;4;E.8.1;Friendship;B;A
+102;Bora Kaya;8-A;İngilizce;5;E.8.2;Teen life;D;D
+102;Bora Kaya;8-A;İngilizce;6;E.8.2;Teen life;A;A
+102;Bora Kaya;8-A;İngilizce;7;E.8.2;Teen life;A;A
+102;Bora Kaya;8-A;İngilizce;8;E.8.3;In the kitchen;C;C
+102;Bora Kaya;8-A;İngilizce;9;E.8.3;In the kitchen;D;D
+102;Bora Kaya;8-A;İngilizce;10;E.8.3;In the kitchen;D;D
+103;Cemre Aksoy;8-A;Türkçe;1;T.8.1;Sözcükte ve söz öbeklerinde anlam;C;
+103;Cemre Aksoy;8-A;Türkçe;2;T.8.1;Sözcükte ve söz öbeklerinde anlam;C;A
+103;Cemre Aksoy;8-A;Türkçe;3;T.8.1;Sözcükte ve söz öbeklerinde anlam;B;B
+103;Cemre Aksoy;8-A;Türkçe;4;T.8.1;Sözcükte ve söz öbeklerinde anlam;D;D
+103;Cemre Aksoy;8-A;Türkçe;5;T.8.2;Cümlede anlam;B;B
+103;Cemre Aksoy;8-A;Türkçe;6;T.8.2;Cümlede anlam;B;B
+103;Cemre Aksoy;8-A;Türkçe;7;T.8.2;Cümlede anlam;A;A
+103;Cemre Aksoy;8-A;Türkçe;8;T.8.2;Cümlede anlam;C;B
+103;Cemre Aksoy;8-A;Türkçe;9;T.8.3;Paragrafta ana fikir ve yardımcı fikir;C;A
+103;Cemre Aksoy;8-A;Türkçe;10;T.8.3;Paragrafta ana fikir ve yardımcı fikir;D;
+103;Cemre Aksoy;8-A;Türkçe;11;T.8.3;Paragrafta ana fikir ve yardımcı fikir;A;A
+103;Cemre Aksoy;8-A;Türkçe;12;T.8.3;Paragrafta ana fikir ve yardımcı fikir;B;
+103;Cemre Aksoy;8-A;Türkçe;13;T.8.4;Fiilimsiler;B;B
+103;Cemre Aksoy;8-A;Türkçe;14;T.8.4;Fiilimsiler;C;C
+103;Cemre Aksoy;8-A;Türkçe;15;T.8.4;Fiilimsiler;D;D
+103;Cemre Aksoy;8-A;Türkçe;16;T.8.4;Fiilimsiler;A;A
+103;Cemre Aksoy;8-A;Türkçe;17;T.8.5;Cümlenin ögeleri;B;B
+103;Cemre Aksoy;8-A;Türkçe;18;T.8.5;Cümlenin ögeleri;C;C
+103;Cemre Aksoy;8-A;Türkçe;19;T.8.5;Cümlenin ögeleri;C;D
+103;Cemre Aksoy;8-A;Türkçe;20;T.8.5;Cümlenin ögeleri;D;D
+103;Cemre Aksoy;8-A;Matematik;1;M.8.1;Çarpanlar ve katlar;D;C
+103;Cemre Aksoy;8-A;Matematik;2;M.8.1;Çarpanlar ve katlar;C;C
+103;Cemre Aksoy;8-A;Matematik;3;M.8.1;Çarpanlar ve katlar;B;A
+103;Cemre Aksoy;8-A;Matematik;4;M.8.1;Çarpanlar ve katlar;B;B
+103;Cemre Aksoy;8-A;Matematik;5;M.8.2;Üslü ifadeler;C;B
+103;Cemre Aksoy;8-A;Matematik;6;M.8.2;Üslü ifadeler;B;D
+103;Cemre Aksoy;8-A;Matematik;7;M.8.2;Üslü ifadeler;D;D
+103;Cemre Aksoy;8-A;Matematik;8;M.8.2;Üslü ifadeler;C;A
+103;Cemre Aksoy;8-A;Matematik;9;M.8.3;Kareköklü ifadeler;A;
+103;Cemre Aksoy;8-A;Matematik;10;M.8.3;Kareköklü ifadeler;A;
+103;Cemre Aksoy;8-A;Matematik;11;M.8.3;Kareköklü ifadeler;B;D
+103;Cemre Aksoy;8-A;Matematik;12;M.8.3;Kareköklü ifadeler;C;D
+103;Cemre Aksoy;8-A;Matematik;13;M.8.4;Veri analizi;B;
+103;Cemre Aksoy;8-A;Matematik;14;M.8.4;Veri analizi;A;A
+103;Cemre Aksoy;8-A;Matematik;15;M.8.4;Veri analizi;C;C
+103;Cemre Aksoy;8-A;Matematik;16;M.8.4;Veri analizi;A;D
+103;Cemre Aksoy;8-A;Matematik;17;M.8.5;Basit olayların olma olasılığı;D;D
+103;Cemre Aksoy;8-A;Matematik;18;M.8.5;Basit olayların olma olasılığı;C;
+103;Cemre Aksoy;8-A;Matematik;19;M.8.5;Basit olayların olma olasılığı;B;B
+103;Cemre Aksoy;8-A;Matematik;20;M.8.5;Basit olayların olma olasılığı;D;D
+103;Cemre Aksoy;8-A;Fen Bilimleri;1;F.8.1;Mevsimler ve iklim;C;C
+103;Cemre Aksoy;8-A;Fen Bilimleri;2;F.8.1;Mevsimler ve iklim;A;C
+103;Cemre Aksoy;8-A;Fen Bilimleri;3;F.8.1;Mevsimler ve iklim;B;B
+103;Cemre Aksoy;8-A;Fen Bilimleri;4;F.8.1;Mevsimler ve iklim;B;B
+103;Cemre Aksoy;8-A;Fen Bilimleri;5;F.8.1;Mevsimler ve iklim;C;C
+103;Cemre Aksoy;8-A;Fen Bilimleri;6;F.8.2;DNA ve genetik kod;B;B
+103;Cemre Aksoy;8-A;Fen Bilimleri;7;F.8.2;DNA ve genetik kod;B;C
+103;Cemre Aksoy;8-A;Fen Bilimleri;8;F.8.2;DNA ve genetik kod;C;C
+103;Cemre Aksoy;8-A;Fen Bilimleri;9;F.8.2;DNA ve genetik kod;A;D
+103;Cemre Aksoy;8-A;Fen Bilimleri;10;F.8.2;DNA ve genetik kod;D;B
+103;Cemre Aksoy;8-A;Fen Bilimleri;11;F.8.3;Basınç;A;A
+103;Cemre Aksoy;8-A;Fen Bilimleri;12;F.8.3;Basınç;A;A
+103;Cemre Aksoy;8-A;Fen Bilimleri;13;F.8.3;Basınç;A;A
+103;Cemre Aksoy;8-A;Fen Bilimleri;14;F.8.3;Basınç;D;
+103;Cemre Aksoy;8-A;Fen Bilimleri;15;F.8.3;Basınç;D;D
+103;Cemre Aksoy;8-A;Fen Bilimleri;16;F.8.4;Madde ve endüstri;C;A
+103;Cemre Aksoy;8-A;Fen Bilimleri;17;F.8.4;Madde ve endüstri;B;C
+103;Cemre Aksoy;8-A;Fen Bilimleri;18;F.8.4;Madde ve endüstri;B;
+103;Cemre Aksoy;8-A;Fen Bilimleri;19;F.8.4;Madde ve endüstri;B;
+103;Cemre Aksoy;8-A;Fen Bilimleri;20;F.8.4;Madde ve endüstri;D;A
+103;Cemre Aksoy;8-A;T.C. İnkılap Tarihi;1;İTA.8.1;Bir kahraman doğuyor;C;C
+103;Cemre Aksoy;8-A;T.C. İnkılap Tarihi;2;İTA.8.1;Bir kahraman doğuyor;D;B
+103;Cemre Aksoy;8-A;T.C. İnkılap Tarihi;3;İTA.8.1;Bir kahraman doğuyor;D;D
+103;Cemre Aksoy;8-A;T.C. İnkılap Tarihi;4;İTA.8.1;Bir kahraman doğuyor;A;C
+103;Cemre Aksoy;8-A;T.C. İnkılap Tarihi;5;İTA.8.1;Bir kahraman doğuyor;D;B
+103;Cemre Aksoy;8-A;T.C. İnkılap Tarihi;6;İTA.8.2;Millî uyanış;C;
+103;Cemre Aksoy;8-A;T.C. İnkılap Tarihi;7;İTA.8.2;Millî uyanış;B;B
+103;Cemre Aksoy;8-A;T.C. İnkılap Tarihi;8;İTA.8.2;Millî uyanış;A;A
+103;Cemre Aksoy;8-A;T.C. İnkılap Tarihi;9;İTA.8.2;Millî uyanış;C;
+103;Cemre Aksoy;8-A;T.C. İnkılap Tarihi;10;İTA.8.2;Millî uyanış;A;B
+103;Cemre Aksoy;8-A;Din Kültürü;1;DKAB.8.1;Kader inancı;B;C
+103;Cemre Aksoy;8-A;Din Kültürü;2;DKAB.8.1;Kader inancı;C;C
+103;Cemre Aksoy;8-A;Din Kültürü;3;DKAB.8.1;Kader inancı;D;D
+103;Cemre Aksoy;8-A;Din Kültürü;4;DKAB.8.1;Kader inancı;A;A
+103;Cemre Aksoy;8-A;Din Kültürü;5;DKAB.8.1;Kader inancı;C;D
+103;Cemre Aksoy;8-A;Din Kültürü;6;DKAB.8.2;Zekât ve sadaka;A;A
+103;Cemre Aksoy;8-A;Din Kültürü;7;DKAB.8.2;Zekât ve sadaka;D;A
+103;Cemre Aksoy;8-A;Din Kültürü;8;DKAB.8.2;Zekât ve sadaka;C;B
+103;Cemre Aksoy;8-A;Din Kültürü;9;DKAB.8.2;Zekât ve sadaka;A;A
+103;Cemre Aksoy;8-A;Din Kültürü;10;DKAB.8.2;Zekât ve sadaka;C;C
+103;Cemre Aksoy;8-A;İngilizce;1;E.8.1;Friendship;A;A
+103;Cemre Aksoy;8-A;İngilizce;2;E.8.1;Friendship;C;C
+103;Cemre Aksoy;8-A;İngilizce;3;E.8.1;Friendship;D;D
+103;Cemre Aksoy;8-A;İngilizce;4;E.8.1;Friendship;B;
+103;Cemre Aksoy;8-A;İngilizce;5;E.8.2;Teen life;D;C
+103;Cemre Aksoy;8-A;İngilizce;6;E.8.2;Teen life;A;B
+103;Cemre Aksoy;8-A;İngilizce;7;E.8.2;Teen life;A;D
+103;Cemre Aksoy;8-A;İngilizce;8;E.8.3;In the kitchen;C;C
+103;Cemre Aksoy;8-A;İngilizce;9;E.8.3;In the kitchen;D;D
+103;Cemre Aksoy;8-A;İngilizce;10;E.8.3;In the kitchen;D;D
+104;Deniz Tunç;8-A;Türkçe;1;T.8.1;Sözcükte ve söz öbeklerinde anlam;C;C
+104;Deniz Tunç;8-A;Türkçe;2;T.8.1;Sözcükte ve söz öbeklerinde anlam;C;B
+104;Deniz Tunç;8-A;Türkçe;3;T.8.1;Sözcükte ve söz öbeklerinde anlam;B;D
+104;Deniz Tunç;8-A;Türkçe;4;T.8.1;Sözcükte ve söz öbeklerinde anlam;D;D
+104;Deniz Tunç;8-A;Türkçe;5;T.8.2;Cümlede anlam;B;C
+104;Deniz Tunç;8-A;Türkçe;6;T.8.2;Cümlede anlam;B;A
+104;Deniz Tunç;8-A;Türkçe;7;T.8.2;Cümlede anlam;A;C
+104;Deniz Tunç;8-A;Türkçe;8;T.8.2;Cümlede anlam;C;C
+104;Deniz Tunç;8-A;Türkçe;9;T.8.3;Paragrafta ana fikir ve yardımcı fikir;C;B
+104;Deniz Tunç;8-A;Türkçe;10;T.8.3;Paragrafta ana fikir ve yardımcı fikir;D;D
+104;Deniz Tunç;8-A;Türkçe;11;T.8.3;Paragrafta ana fikir ve yardımcı fikir;A;
+104;Deniz Tunç;8-A;Türkçe;12;T.8.3;Paragrafta ana fikir ve yardımcı fikir;B;A
+104;Deniz Tunç;8-A;Türkçe;13;T.8.4;Fiilimsiler;B;B
+104;Deniz Tunç;8-A;Türkçe;14;T.8.4;Fiilimsiler;C;D
+104;Deniz Tunç;8-A;Türkçe;15;T.8.4;Fiilimsiler;D;D
+104;Deniz Tunç;8-A;Türkçe;16;T.8.4;Fiilimsiler;A;A
+104;Deniz Tunç;8-A;Türkçe;17;T.8.5;Cümlenin ögeleri;B;C
+104;Deniz Tunç;8-A;Türkçe;18;T.8.5;Cümlenin ögeleri;C;D
+104;Deniz Tunç;8-A;Türkçe;19;T.8.5;Cümlenin ögeleri;C;C
+104;Deniz Tunç;8-A;Türkçe;20;T.8.5;Cümlenin ögeleri;D;
+104;Deniz Tunç;8-A;Matematik;1;M.8.1;Çarpanlar ve katlar;D;D
+104;Deniz Tunç;8-A;Matematik;2;M.8.1;Çarpanlar ve katlar;C;B
+104;Deniz Tunç;8-A;Matematik;3;M.8.1;Çarpanlar ve katlar;B;
+104;Deniz Tunç;8-A;Matematik;4;M.8.1;Çarpanlar ve katlar;B;B
+104;Deniz Tunç;8-A;Matematik;5;M.8.2;Üslü ifadeler;C;B
+104;Deniz Tunç;8-A;Matematik;6;M.8.2;Üslü ifadeler;B;B
+104;Deniz Tunç;8-A;Matematik;7;M.8.2;Üslü ifadeler;D;A
+104;Deniz Tunç;8-A;Matematik;8;M.8.2;Üslü ifadeler;C;C
+104;Deniz Tunç;8-A;Matematik;9;M.8.3;Kareköklü ifadeler;A;
+104;Deniz Tunç;8-A;Matematik;10;M.8.3;Kareköklü ifadeler;A;D
+104;Deniz Tunç;8-A;Matematik;11;M.8.3;Kareköklü ifadeler;B;
+104;Deniz Tunç;8-A;Matematik;12;M.8.3;Kareköklü ifadeler;C;C
+104;Deniz Tunç;8-A;Matematik;13;M.8.4;Veri analizi;B;B
+104;Deniz Tunç;8-A;Matematik;14;M.8.4;Veri analizi;A;A
+104;Deniz Tunç;8-A;Matematik;15;M.8.4;Veri analizi;C;C
+104;Deniz Tunç;8-A;Matematik;16;M.8.4;Veri analizi;A;A
+104;Deniz Tunç;8-A;Matematik;17;M.8.5;Basit olayların olma olasılığı;D;D
+104;Deniz Tunç;8-A;Matematik;18;M.8.5;Basit olayların olma olasılığı;C;C
+104;Deniz Tunç;8-A;Matematik;19;M.8.5;Basit olayların olma olasılığı;B;B
+104;Deniz Tunç;8-A;Matematik;20;M.8.5;Basit olayların olma olasılığı;D;A
+104;Deniz Tunç;8-A;Fen Bilimleri;1;F.8.1;Mevsimler ve iklim;C;C
+104;Deniz Tunç;8-A;Fen Bilimleri;2;F.8.1;Mevsimler ve iklim;A;C
+104;Deniz Tunç;8-A;Fen Bilimleri;3;F.8.1;Mevsimler ve iklim;B;
+104;Deniz Tunç;8-A;Fen Bilimleri;4;F.8.1;Mevsimler ve iklim;B;
+104;Deniz Tunç;8-A;Fen Bilimleri;5;F.8.1;Mevsimler ve iklim;C;C
+104;Deniz Tunç;8-A;Fen Bilimleri;6;F.8.2;DNA ve genetik kod;B;B
+104;Deniz Tunç;8-A;Fen Bilimleri;7;F.8.2;DNA ve genetik kod;B;B
+104;Deniz Tunç;8-A;Fen Bilimleri;8;F.8.2;DNA ve genetik kod;C;C
+104;Deniz Tunç;8-A;Fen Bilimleri;9;F.8.2;DNA ve genetik kod;A;A
+104;Deniz Tunç;8-A;Fen Bilimleri;10;F.8.2;DNA ve genetik kod;D;D
+104;Deniz Tunç;8-A;Fen Bilimleri;11;F.8.3;Basınç;A;A
+104;Deniz Tunç;8-A;Fen Bilimleri;12;F.8.3;Basınç;A;A
+104;Deniz Tunç;8-A;Fen Bilimleri;13;F.8.3;Basınç;A;C
+104;Deniz Tunç;8-A;Fen Bilimleri;14;F.8.3;Basınç;D;D
+104;Deniz Tunç;8-A;Fen Bilimleri;15;F.8.3;Basınç;D;D
+104;Deniz Tunç;8-A;Fen Bilimleri;16;F.8.4;Madde ve endüstri;C;
+104;Deniz Tunç;8-A;Fen Bilimleri;17;F.8.4;Madde ve endüstri;B;D
+104;Deniz Tunç;8-A;Fen Bilimleri;18;F.8.4;Madde ve endüstri;B;
+104;Deniz Tunç;8-A;Fen Bilimleri;19;F.8.4;Madde ve endüstri;B;D
+104;Deniz Tunç;8-A;Fen Bilimleri;20;F.8.4;Madde ve endüstri;D;A
+104;Deniz Tunç;8-A;T.C. İnkılap Tarihi;1;İTA.8.1;Bir kahraman doğuyor;C;C
+104;Deniz Tunç;8-A;T.C. İnkılap Tarihi;2;İTA.8.1;Bir kahraman doğuyor;D;D
+104;Deniz Tunç;8-A;T.C. İnkılap Tarihi;3;İTA.8.1;Bir kahraman doğuyor;D;D
+104;Deniz Tunç;8-A;T.C. İnkılap Tarihi;4;İTA.8.1;Bir kahraman doğuyor;A;A
+104;Deniz Tunç;8-A;T.C. İnkılap Tarihi;5;İTA.8.1;Bir kahraman doğuyor;D;
+104;Deniz Tunç;8-A;T.C. İnkılap Tarihi;6;İTA.8.2;Millî uyanış;C;C
+104;Deniz Tunç;8-A;T.C. İnkılap Tarihi;7;İTA.8.2;Millî uyanış;B;C
+104;Deniz Tunç;8-A;T.C. İnkılap Tarihi;8;İTA.8.2;Millî uyanış;A;A
+104;Deniz Tunç;8-A;T.C. İnkılap Tarihi;9;İTA.8.2;Millî uyanış;C;D
+104;Deniz Tunç;8-A;T.C. İnkılap Tarihi;10;İTA.8.2;Millî uyanış;A;
+104;Deniz Tunç;8-A;Din Kültürü;1;DKAB.8.1;Kader inancı;B;B
+104;Deniz Tunç;8-A;Din Kültürü;2;DKAB.8.1;Kader inancı;C;B
+104;Deniz Tunç;8-A;Din Kültürü;3;DKAB.8.1;Kader inancı;D;D
+104;Deniz Tunç;8-A;Din Kültürü;4;DKAB.8.1;Kader inancı;A;C
+104;Deniz Tunç;8-A;Din Kültürü;5;DKAB.8.1;Kader inancı;C;
+104;Deniz Tunç;8-A;Din Kültürü;6;DKAB.8.2;Zekât ve sadaka;A;A
+104;Deniz Tunç;8-A;Din Kültürü;7;DKAB.8.2;Zekât ve sadaka;D;B
+104;Deniz Tunç;8-A;Din Kültürü;8;DKAB.8.2;Zekât ve sadaka;C;A
+104;Deniz Tunç;8-A;Din Kültürü;9;DKAB.8.2;Zekât ve sadaka;A;C
+104;Deniz Tunç;8-A;Din Kültürü;10;DKAB.8.2;Zekât ve sadaka;C;A
+104;Deniz Tunç;8-A;İngilizce;1;E.8.1;Friendship;A;A
+104;Deniz Tunç;8-A;İngilizce;2;E.8.1;Friendship;C;C
+104;Deniz Tunç;8-A;İngilizce;3;E.8.1;Friendship;D;B
+104;Deniz Tunç;8-A;İngilizce;4;E.8.1;Friendship;B;B
+104;Deniz Tunç;8-A;İngilizce;5;E.8.2;Teen life;D;A
+104;Deniz Tunç;8-A;İngilizce;6;E.8.2;Teen life;A;A
+104;Deniz Tunç;8-A;İngilizce;7;E.8.2;Teen life;A;A
+104;Deniz Tunç;8-A;İngilizce;8;E.8.3;In the kitchen;C;C
+104;Deniz Tunç;8-A;İngilizce;9;E.8.3;In the kitchen;D;C
+104;Deniz Tunç;8-A;İngilizce;10;E.8.3;In the kitchen;D;D
+105;Ege Sarıkaya;8-A;Türkçe;1;T.8.1;Sözcükte ve söz öbeklerinde anlam;C;C
+105;Ege Sarıkaya;8-A;Türkçe;2;T.8.1;Sözcükte ve söz öbeklerinde anlam;C;C
+105;Ege Sarıkaya;8-A;Türkçe;3;T.8.1;Sözcükte ve söz öbeklerinde anlam;B;
+105;Ege Sarıkaya;8-A;Türkçe;4;T.8.1;Sözcükte ve söz öbeklerinde anlam;D;D
+105;Ege Sarıkaya;8-A;Türkçe;5;T.8.2;Cümlede anlam;B;A
+105;Ege Sarıkaya;8-A;Türkçe;6;T.8.2;Cümlede anlam;B;B
+105;Ege Sarıkaya;8-A;Türkçe;7;T.8.2;Cümlede anlam;A;A
+105;Ege Sarıkaya;8-A;Türkçe;8;T.8.2;Cümlede anlam;C;C
+105;Ege Sarıkaya;8-A;Türkçe;9;T.8.3;Paragrafta ana fikir ve yardımcı fikir;C;
+105;Ege Sarıkaya;8-A;Türkçe;10;T.8.3;Paragrafta ana fikir ve yardımcı fikir;D;D
+105;Ege Sarıkaya;8-A;Türkçe;11;T.8.3;Paragrafta ana fikir ve yardımcı fikir;A;A
+105;Ege Sarıkaya;8-A;Türkçe;12;T.8.3;Paragrafta ana fikir ve yardımcı fikir;B;B
+105;Ege Sarıkaya;8-A;Türkçe;13;T.8.4;Fiilimsiler;B;C
+105;Ege Sarıkaya;8-A;Türkçe;14;T.8.4;Fiilimsiler;C;C
+105;Ege Sarıkaya;8-A;Türkçe;15;T.8.4;Fiilimsiler;D;D
+105;Ege Sarıkaya;8-A;Türkçe;16;T.8.4;Fiilimsiler;A;B
+105;Ege Sarıkaya;8-A;Türkçe;17;T.8.5;Cümlenin ögeleri;B;A
+105;Ege Sarıkaya;8-A;Türkçe;18;T.8.5;Cümlenin ögeleri;C;C
+105;Ege Sarıkaya;8-A;Türkçe;19;T.8.5;Cümlenin ögeleri;C;C
+105;Ege Sarıkaya;8-A;Türkçe;20;T.8.5;Cümlenin ögeleri;D;D
+105;Ege Sarıkaya;8-A;Matematik;1;M.8.1;Çarpanlar ve katlar;D;
+105;Ege Sarıkaya;8-A;Matematik;2;M.8.1;Çarpanlar ve katlar;C;A
+105;Ege Sarıkaya;8-A;Matematik;3;M.8.1;Çarpanlar ve katlar;B;B
+105;Ege Sarıkaya;8-A;Matematik;4;M.8.1;Çarpanlar ve katlar;B;B
+105;Ege Sarıkaya;8-A;Matematik;5;M.8.2;Üslü ifadeler;C;A
+105;Ege Sarıkaya;8-A;Matematik;6;M.8.2;Üslü ifadeler;B;A
+105;Ege Sarıkaya;8-A;Matematik;7;M.8.2;Üslü ifadeler;D;
+105;Ege Sarıkaya;8-A;Matematik;8;M.8.2;Üslü ifadeler;C;C
+105;Ege Sarıkaya;8-A;Matematik;9;M.8.3;Kareköklü ifadeler;A;D
+105;Ege Sarıkaya;8-A;Matematik;10;M.8.3;Kareköklü ifadeler;A;D
+105;Ege Sarıkaya;8-A;Matematik;11;M.8.3;Kareköklü ifadeler;B;B
+105;Ege Sarıkaya;8-A;Matematik;12;M.8.3;Kareköklü ifadeler;C;C
+105;Ege Sarıkaya;8-A;Matematik;13;M.8.4;Veri analizi;B;B
+105;Ege Sarıkaya;8-A;Matematik;14;M.8.4;Veri analizi;A;A
+105;Ege Sarıkaya;8-A;Matematik;15;M.8.4;Veri analizi;C;C
+105;Ege Sarıkaya;8-A;Matematik;16;M.8.4;Veri analizi;A;
+105;Ege Sarıkaya;8-A;Matematik;17;M.8.5;Basit olayların olma olasılığı;D;B
+105;Ege Sarıkaya;8-A;Matematik;18;M.8.5;Basit olayların olma olasılığı;C;
+105;Ege Sarıkaya;8-A;Matematik;19;M.8.5;Basit olayların olma olasılığı;B;C
+105;Ege Sarıkaya;8-A;Matematik;20;M.8.5;Basit olayların olma olasılığı;D;D
+105;Ege Sarıkaya;8-A;Fen Bilimleri;1;F.8.1;Mevsimler ve iklim;C;A
+105;Ege Sarıkaya;8-A;Fen Bilimleri;2;F.8.1;Mevsimler ve iklim;A;B
+105;Ege Sarıkaya;8-A;Fen Bilimleri;3;F.8.1;Mevsimler ve iklim;B;D
+105;Ege Sarıkaya;8-A;Fen Bilimleri;4;F.8.1;Mevsimler ve iklim;B;B
+105;Ege Sarıkaya;8-A;Fen Bilimleri;5;F.8.1;Mevsimler ve iklim;C;
+105;Ege Sarıkaya;8-A;Fen Bilimleri;6;F.8.2;DNA ve genetik kod;B;D
+105;Ege Sarıkaya;8-A;Fen Bilimleri;7;F.8.2;DNA ve genetik kod;B;
+105;Ege Sarıkaya;8-A;Fen Bilimleri;8;F.8.2;DNA ve genetik kod;C;C
+105;Ege Sarıkaya;8-A;Fen Bilimleri;9;F.8.2;DNA ve genetik kod;A;A
+105;Ege Sarıkaya;8-A;Fen Bilimleri;10;F.8.2;DNA ve genetik kod;D;C
+105;Ege Sarıkaya;8-A;Fen Bilimleri;11;F.8.3;Basınç;A;C
+105;Ege Sarıkaya;8-A;Fen Bilimleri;12;F.8.3;Basınç;A;B
+105;Ege Sarıkaya;8-A;Fen Bilimleri;13;F.8.3;Basınç;A;A
+105;Ege Sarıkaya;8-A;Fen Bilimleri;14;F.8.3;Basınç;D;D
+105;Ege Sarıkaya;8-A;Fen Bilimleri;15;F.8.3;Basınç;D;B
+105;Ege Sarıkaya;8-A;Fen Bilimleri;16;F.8.4;Madde ve endüstri;C;C
+105;Ege Sarıkaya;8-A;Fen Bilimleri;17;F.8.4;Madde ve endüstri;B;B
+105;Ege Sarıkaya;8-A;Fen Bilimleri;18;F.8.4;Madde ve endüstri;B;D
+105;Ege Sarıkaya;8-A;Fen Bilimleri;19;F.8.4;Madde ve endüstri;B;B
+105;Ege Sarıkaya;8-A;Fen Bilimleri;20;F.8.4;Madde ve endüstri;D;C
+105;Ege Sarıkaya;8-A;T.C. İnkılap Tarihi;1;İTA.8.1;Bir kahraman doğuyor;C;A
+105;Ege Sarıkaya;8-A;T.C. İnkılap Tarihi;2;İTA.8.1;Bir kahraman doğuyor;D;B
+105;Ege Sarıkaya;8-A;T.C. İnkılap Tarihi;3;İTA.8.1;Bir kahraman doğuyor;D;D
+105;Ege Sarıkaya;8-A;T.C. İnkılap Tarihi;4;İTA.8.1;Bir kahraman doğuyor;A;B
+105;Ege Sarıkaya;8-A;T.C. İnkılap Tarihi;5;İTA.8.1;Bir kahraman doğuyor;D;D
+105;Ege Sarıkaya;8-A;T.C. İnkılap Tarihi;6;İTA.8.2;Millî uyanış;C;C
+105;Ege Sarıkaya;8-A;T.C. İnkılap Tarihi;7;İTA.8.2;Millî uyanış;B;B
+105;Ege Sarıkaya;8-A;T.C. İnkılap Tarihi;8;İTA.8.2;Millî uyanış;A;A
+105;Ege Sarıkaya;8-A;T.C. İnkılap Tarihi;9;İTA.8.2;Millî uyanış;C;C
+105;Ege Sarıkaya;8-A;T.C. İnkılap Tarihi;10;İTA.8.2;Millî uyanış;A;D
+105;Ege Sarıkaya;8-A;Din Kültürü;1;DKAB.8.1;Kader inancı;B;D
+105;Ege Sarıkaya;8-A;Din Kültürü;2;DKAB.8.1;Kader inancı;C;D
+105;Ege Sarıkaya;8-A;Din Kültürü;3;DKAB.8.1;Kader inancı;D;
+105;Ege Sarıkaya;8-A;Din Kültürü;4;DKAB.8.1;Kader inancı;A;A
+105;Ege Sarıkaya;8-A;Din Kültürü;5;DKAB.8.1;Kader inancı;C;D
+105;Ege Sarıkaya;8-A;Din Kültürü;6;DKAB.8.2;Zekât ve sadaka;A;C
+105;Ege Sarıkaya;8-A;Din Kültürü;7;DKAB.8.2;Zekât ve sadaka;D;C
+105;Ege Sarıkaya;8-A;Din Kültürü;8;DKAB.8.2;Zekât ve sadaka;C;B
+105;Ege Sarıkaya;8-A;Din Kültürü;9;DKAB.8.2;Zekât ve sadaka;A;
+105;Ege Sarıkaya;8-A;Din Kültürü;10;DKAB.8.2;Zekât ve sadaka;C;
+105;Ege Sarıkaya;8-A;İngilizce;1;E.8.1;Friendship;A;A
+105;Ege Sarıkaya;8-A;İngilizce;2;E.8.1;Friendship;C;A
+105;Ege Sarıkaya;8-A;İngilizce;3;E.8.1;Friendship;D;
+105;Ege Sarıkaya;8-A;İngilizce;4;E.8.1;Friendship;B;B
+105;Ege Sarıkaya;8-A;İngilizce;5;E.8.2;Teen life;D;D
+105;Ege Sarıkaya;8-A;İngilizce;6;E.8.2;Teen life;A;C
+105;Ege Sarıkaya;8-A;İngilizce;7;E.8.2;Teen life;A;D
+105;Ege Sarıkaya;8-A;İngilizce;8;E.8.3;In the kitchen;C;D
+105;Ege Sarıkaya;8-A;İngilizce;9;E.8.3;In the kitchen;D;A
+105;Ege Sarıkaya;8-A;İngilizce;10;E.8.3;In the kitchen;D;D
+106;Fulya Demirel;8-A;Türkçe;1;T.8.1;Sözcükte ve söz öbeklerinde anlam;C;C
+106;Fulya Demirel;8-A;Türkçe;2;T.8.1;Sözcükte ve söz öbeklerinde anlam;C;C
+106;Fulya Demirel;8-A;Türkçe;3;T.8.1;Sözcükte ve söz öbeklerinde anlam;B;B
+106;Fulya Demirel;8-A;Türkçe;4;T.8.1;Sözcükte ve söz öbeklerinde anlam;D;D
+106;Fulya Demirel;8-A;Türkçe;5;T.8.2;Cümlede anlam;B;B
+106;Fulya Demirel;8-A;Türkçe;6;T.8.2;Cümlede anlam;B;B
+106;Fulya Demirel;8-A;Türkçe;7;T.8.2;Cümlede anlam;A;A
+106;Fulya Demirel;8-A;Türkçe;8;T.8.2;Cümlede anlam;C;C
+106;Fulya Demirel;8-A;Türkçe;9;T.8.3;Paragrafta ana fikir ve yardımcı fikir;C;C
+106;Fulya Demirel;8-A;Türkçe;10;T.8.3;Paragrafta ana fikir ve yardımcı fikir;D;D
+106;Fulya Demirel;8-A;Türkçe;11;T.8.3;Paragrafta ana fikir ve yardımcı fikir;A;A
+106;Fulya Demirel;8-A;Türkçe;12;T.8.3;Paragrafta ana fikir ve yardımcı fikir;B;B
+106;Fulya Demirel;8-A;Türkçe;13;T.8.4;Fiilimsiler;B;B
+106;Fulya Demirel;8-A;Türkçe;14;T.8.4;Fiilimsiler;C;D
+106;Fulya Demirel;8-A;Türkçe;15;T.8.4;Fiilimsiler;D;B
+106;Fulya Demirel;8-A;Türkçe;16;T.8.4;Fiilimsiler;A;A
+106;Fulya Demirel;8-A;Türkçe;17;T.8.5;Cümlenin ögeleri;B;B
+106;Fulya Demirel;8-A;Türkçe;18;T.8.5;Cümlenin ögeleri;C;C
+106;Fulya Demirel;8-A;Türkçe;19;T.8.5;Cümlenin ögeleri;C;C
+106;Fulya Demirel;8-A;Türkçe;20;T.8.5;Cümlenin ögeleri;D;D
+106;Fulya Demirel;8-A;Matematik;1;M.8.1;Çarpanlar ve katlar;D;D
+106;Fulya Demirel;8-A;Matematik;2;M.8.1;Çarpanlar ve katlar;C;C
+106;Fulya Demirel;8-A;Matematik;3;M.8.1;Çarpanlar ve katlar;B;B
+106;Fulya Demirel;8-A;Matematik;4;M.8.1;Çarpanlar ve katlar;B;B
+106;Fulya Demirel;8-A;Matematik;5;M.8.2;Üslü ifadeler;C;
+106;Fulya Demirel;8-A;Matematik;6;M.8.2;Üslü ifadeler;B;A
+106;Fulya Demirel;8-A;Matematik;7;M.8.2;Üslü ifadeler;D;D
+106;Fulya Demirel;8-A;Matematik;8;M.8.2;Üslü ifadeler;C;
+106;Fulya Demirel;8-A;Matematik;9;M.8.3;Kareköklü ifadeler;A;A
+106;Fulya Demirel;8-A;Matematik;10;M.8.3;Kareköklü ifadeler;A;A
+106;Fulya Demirel;8-A;Matematik;11;M.8.3;Kareköklü ifadeler;B;A
+106;Fulya Demirel;8-A;Matematik;12;M.8.3;Kareköklü ifadeler;C;D
+106;Fulya Demirel;8-A;Matematik;13;M.8.4;Veri analizi;B;B
+106;Fulya Demirel;8-A;Matematik;14;M.8.4;Veri analizi;A;D
+106;Fulya Demirel;8-A;Matematik;15;M.8.4;Veri analizi;C;C
+106;Fulya Demirel;8-A;Matematik;16;M.8.4;Veri analizi;A;A
+106;Fulya Demirel;8-A;Matematik;17;M.8.5;Basit olayların olma olasılığı;D;D
+106;Fulya Demirel;8-A;Matematik;18;M.8.5;Basit olayların olma olasılığı;C;B
+106;Fulya Demirel;8-A;Matematik;19;M.8.5;Basit olayların olma olasılığı;B;B
+106;Fulya Demirel;8-A;Matematik;20;M.8.5;Basit olayların olma olasılığı;D;B
+106;Fulya Demirel;8-A;Fen Bilimleri;1;F.8.1;Mevsimler ve iklim;C;C
+106;Fulya Demirel;8-A;Fen Bilimleri;2;F.8.1;Mevsimler ve iklim;A;C
+106;Fulya Demirel;8-A;Fen Bilimleri;3;F.8.1;Mevsimler ve iklim;B;B
+106;Fulya Demirel;8-A;Fen Bilimleri;4;F.8.1;Mevsimler ve iklim;B;B
+106;Fulya Demirel;8-A;Fen Bilimleri;5;F.8.1;Mevsimler ve iklim;C;C
+106;Fulya Demirel;8-A;Fen Bilimleri;6;F.8.2;DNA ve genetik kod;B;B
+106;Fulya Demirel;8-A;Fen Bilimleri;7;F.8.2;DNA ve genetik kod;B;C
+106;Fulya Demirel;8-A;Fen Bilimleri;8;F.8.2;DNA ve genetik kod;C;C
+106;Fulya Demirel;8-A;Fen Bilimleri;9;F.8.2;DNA ve genetik kod;A;A
+106;Fulya Demirel;8-A;Fen Bilimleri;10;F.8.2;DNA ve genetik kod;D;D
+106;Fulya Demirel;8-A;Fen Bilimleri;11;F.8.3;Basınç;A;A
+106;Fulya Demirel;8-A;Fen Bilimleri;12;F.8.3;Basınç;A;A
+106;Fulya Demirel;8-A;Fen Bilimleri;13;F.8.3;Basınç;A;A
+106;Fulya Demirel;8-A;Fen Bilimleri;14;F.8.3;Basınç;D;D
+106;Fulya Demirel;8-A;Fen Bilimleri;15;F.8.3;Basınç;D;D
+106;Fulya Demirel;8-A;Fen Bilimleri;16;F.8.4;Madde ve endüstri;C;C
+106;Fulya Demirel;8-A;Fen Bilimleri;17;F.8.4;Madde ve endüstri;B;B
+106;Fulya Demirel;8-A;Fen Bilimleri;18;F.8.4;Madde ve endüstri;B;D
+106;Fulya Demirel;8-A;Fen Bilimleri;19;F.8.4;Madde ve endüstri;B;D
+106;Fulya Demirel;8-A;Fen Bilimleri;20;F.8.4;Madde ve endüstri;D;D
+106;Fulya Demirel;8-A;T.C. İnkılap Tarihi;1;İTA.8.1;Bir kahraman doğuyor;C;C
+106;Fulya Demirel;8-A;T.C. İnkılap Tarihi;2;İTA.8.1;Bir kahraman doğuyor;D;D
+106;Fulya Demirel;8-A;T.C. İnkılap Tarihi;3;İTA.8.1;Bir kahraman doğuyor;D;A
+106;Fulya Demirel;8-A;T.C. İnkılap Tarihi;4;İTA.8.1;Bir kahraman doğuyor;A;A
+106;Fulya Demirel;8-A;T.C. İnkılap Tarihi;5;İTA.8.1;Bir kahraman doğuyor;D;D
+106;Fulya Demirel;8-A;T.C. İnkılap Tarihi;6;İTA.8.2;Millî uyanış;C;C
+106;Fulya Demirel;8-A;T.C. İnkılap Tarihi;7;İTA.8.2;Millî uyanış;B;B
+106;Fulya Demirel;8-A;T.C. İnkılap Tarihi;8;İTA.8.2;Millî uyanış;A;D
+106;Fulya Demirel;8-A;T.C. İnkılap Tarihi;9;İTA.8.2;Millî uyanış;C;C
+106;Fulya Demirel;8-A;T.C. İnkılap Tarihi;10;İTA.8.2;Millî uyanış;A;A
+106;Fulya Demirel;8-A;Din Kültürü;1;DKAB.8.1;Kader inancı;B;
+106;Fulya Demirel;8-A;Din Kültürü;2;DKAB.8.1;Kader inancı;C;B
+106;Fulya Demirel;8-A;Din Kültürü;3;DKAB.8.1;Kader inancı;D;D
+106;Fulya Demirel;8-A;Din Kültürü;4;DKAB.8.1;Kader inancı;A;A
+106;Fulya Demirel;8-A;Din Kültürü;5;DKAB.8.1;Kader inancı;C;C
+106;Fulya Demirel;8-A;Din Kültürü;6;DKAB.8.2;Zekât ve sadaka;A;A
+106;Fulya Demirel;8-A;Din Kültürü;7;DKAB.8.2;Zekât ve sadaka;D;C
+106;Fulya Demirel;8-A;Din Kültürü;8;DKAB.8.2;Zekât ve sadaka;C;C
+106;Fulya Demirel;8-A;Din Kültürü;9;DKAB.8.2;Zekât ve sadaka;A;D
+106;Fulya Demirel;8-A;Din Kültürü;10;DKAB.8.2;Zekât ve sadaka;C;C
+106;Fulya Demirel;8-A;İngilizce;1;E.8.1;Friendship;A;A
+106;Fulya Demirel;8-A;İngilizce;2;E.8.1;Friendship;C;C
+106;Fulya Demirel;8-A;İngilizce;3;E.8.1;Friendship;D;A
+106;Fulya Demirel;8-A;İngilizce;4;E.8.1;Friendship;B;B
+106;Fulya Demirel;8-A;İngilizce;5;E.8.2;Teen life;D;C
+106;Fulya Demirel;8-A;İngilizce;6;E.8.2;Teen life;A;A
+106;Fulya Demirel;8-A;İngilizce;7;E.8.2;Teen life;A;C
+106;Fulya Demirel;8-A;İngilizce;8;E.8.3;In the kitchen;C;B
+106;Fulya Demirel;8-A;İngilizce;9;E.8.3;In the kitchen;D;D
+106;Fulya Demirel;8-A;İngilizce;10;E.8.3;In the kitchen;D;D
+107;Göktuğ Ercan;8-A;Türkçe;1;T.8.1;Sözcükte ve söz öbeklerinde anlam;C;C
+107;Göktuğ Ercan;8-A;Türkçe;2;T.8.1;Sözcükte ve söz öbeklerinde anlam;C;C
+107;Göktuğ Ercan;8-A;Türkçe;3;T.8.1;Sözcükte ve söz öbeklerinde anlam;B;C
+107;Göktuğ Ercan;8-A;Türkçe;4;T.8.1;Sözcükte ve söz öbeklerinde anlam;D;B
+107;Göktuğ Ercan;8-A;Türkçe;5;T.8.2;Cümlede anlam;B;A
+107;Göktuğ Ercan;8-A;Türkçe;6;T.8.2;Cümlede anlam;B;B
+107;Göktuğ Ercan;8-A;Türkçe;7;T.8.2;Cümlede anlam;A;A
+107;Göktuğ Ercan;8-A;Türkçe;8;T.8.2;Cümlede anlam;C;C
+107;Göktuğ Ercan;8-A;Türkçe;9;T.8.3;Paragrafta ana fikir ve yardımcı fikir;C;B
+107;Göktuğ Ercan;8-A;Türkçe;10;T.8.3;Paragrafta ana fikir ve yardımcı fikir;D;A
+107;Göktuğ Ercan;8-A;Türkçe;11;T.8.3;Paragrafta ana fikir ve yardımcı fikir;A;C
+107;Göktuğ Ercan;8-A;Türkçe;12;T.8.3;Paragrafta ana fikir ve yardımcı fikir;B;C
+107;Göktuğ Ercan;8-A;Türkçe;13;T.8.4;Fiilimsiler;B;B
+107;Göktuğ Ercan;8-A;Türkçe;14;T.8.4;Fiilimsiler;C;B
+107;Göktuğ Ercan;8-A;Türkçe;15;T.8.4;Fiilimsiler;D;D
+107;Göktuğ Ercan;8-A;Türkçe;16;T.8.4;Fiilimsiler;A;C
+107;Göktuğ Ercan;8-A;Türkçe;17;T.8.5;Cümlenin ögeleri;B;
+107;Göktuğ Ercan;8-A;Türkçe;18;T.8.5;Cümlenin ögeleri;C;C
+107;Göktuğ Ercan;8-A;Türkçe;19;T.8.5;Cümlenin ögeleri;C;C
+107;Göktuğ Ercan;8-A;Türkçe;20;T.8.5;Cümlenin ögeleri;D;D
+107;Göktuğ Ercan;8-A;Matematik;1;M.8.1;Çarpanlar ve katlar;D;D
+107;Göktuğ Ercan;8-A;Matematik;2;M.8.1;Çarpanlar ve katlar;C;
+107;Göktuğ Ercan;8-A;Matematik;3;M.8.1;Çarpanlar ve katlar;B;B
+107;Göktuğ Ercan;8-A;Matematik;4;M.8.1;Çarpanlar ve katlar;B;B
+107;Göktuğ Ercan;8-A;Matematik;5;M.8.2;Üslü ifadeler;C;C
+107;Göktuğ Ercan;8-A;Matematik;6;M.8.2;Üslü ifadeler;B;
+107;Göktuğ Ercan;8-A;Matematik;7;M.8.2;Üslü ifadeler;D;D
+107;Göktuğ Ercan;8-A;Matematik;8;M.8.2;Üslü ifadeler;C;A
+107;Göktuğ Ercan;8-A;Matematik;9;M.8.3;Kareköklü ifadeler;A;A
+107;Göktuğ Ercan;8-A;Matematik;10;M.8.3;Kareköklü ifadeler;A;A
+107;Göktuğ Ercan;8-A;Matematik;11;M.8.3;Kareköklü ifadeler;B;D
+107;Göktuğ Ercan;8-A;Matematik;12;M.8.3;Kareköklü ifadeler;C;
+107;Göktuğ Ercan;8-A;Matematik;13;M.8.4;Veri analizi;B;B
+107;Göktuğ Ercan;8-A;Matematik;14;M.8.4;Veri analizi;A;B
+107;Göktuğ Ercan;8-A;Matematik;15;M.8.4;Veri analizi;C;C
+107;Göktuğ Ercan;8-A;Matematik;16;M.8.4;Veri analizi;A;C
+107;Göktuğ Ercan;8-A;Matematik;17;M.8.5;Basit olayların olma olasılığı;D;C
+107;Göktuğ Ercan;8-A;Matematik;18;M.8.5;Basit olayların olma olasılığı;C;
+107;Göktuğ Ercan;8-A;Matematik;19;M.8.5;Basit olayların olma olasılığı;B;B
+107;Göktuğ Ercan;8-A;Matematik;20;M.8.5;Basit olayların olma olasılığı;D;D
+107;Göktuğ Ercan;8-A;Fen Bilimleri;1;F.8.1;Mevsimler ve iklim;C;
+107;Göktuğ Ercan;8-A;Fen Bilimleri;2;F.8.1;Mevsimler ve iklim;A;D
+107;Göktuğ Ercan;8-A;Fen Bilimleri;3;F.8.1;Mevsimler ve iklim;B;B
+107;Göktuğ Ercan;8-A;Fen Bilimleri;4;F.8.1;Mevsimler ve iklim;B;A
+107;Göktuğ Ercan;8-A;Fen Bilimleri;5;F.8.1;Mevsimler ve iklim;C;C
+107;Göktuğ Ercan;8-A;Fen Bilimleri;6;F.8.2;DNA ve genetik kod;B;D
+107;Göktuğ Ercan;8-A;Fen Bilimleri;7;F.8.2;DNA ve genetik kod;B;B
+107;Göktuğ Ercan;8-A;Fen Bilimleri;8;F.8.2;DNA ve genetik kod;C;C
+107;Göktuğ Ercan;8-A;Fen Bilimleri;9;F.8.2;DNA ve genetik kod;A;D
+107;Göktuğ Ercan;8-A;Fen Bilimleri;10;F.8.2;DNA ve genetik kod;D;A
+107;Göktuğ Ercan;8-A;Fen Bilimleri;11;F.8.3;Basınç;A;A
+107;Göktuğ Ercan;8-A;Fen Bilimleri;12;F.8.3;Basınç;A;A
+107;Göktuğ Ercan;8-A;Fen Bilimleri;13;F.8.3;Basınç;A;D
+107;Göktuğ Ercan;8-A;Fen Bilimleri;14;F.8.3;Basınç;D;D
+107;Göktuğ Ercan;8-A;Fen Bilimleri;15;F.8.3;Basınç;D;D
+107;Göktuğ Ercan;8-A;Fen Bilimleri;16;F.8.4;Madde ve endüstri;C;C
+107;Göktuğ Ercan;8-A;Fen Bilimleri;17;F.8.4;Madde ve endüstri;B;B
+107;Göktuğ Ercan;8-A;Fen Bilimleri;18;F.8.4;Madde ve endüstri;B;C
+107;Göktuğ Ercan;8-A;Fen Bilimleri;19;F.8.4;Madde ve endüstri;B;B
+107;Göktuğ Ercan;8-A;Fen Bilimleri;20;F.8.4;Madde ve endüstri;D;C
+107;Göktuğ Ercan;8-A;T.C. İnkılap Tarihi;1;İTA.8.1;Bir kahraman doğuyor;C;B
+107;Göktuğ Ercan;8-A;T.C. İnkılap Tarihi;2;İTA.8.1;Bir kahraman doğuyor;D;D
+107;Göktuğ Ercan;8-A;T.C. İnkılap Tarihi;3;İTA.8.1;Bir kahraman doğuyor;D;D
+107;Göktuğ Ercan;8-A;T.C. İnkılap Tarihi;4;İTA.8.1;Bir kahraman doğuyor;A;A
+107;Göktuğ Ercan;8-A;T.C. İnkılap Tarihi;5;İTA.8.1;Bir kahraman doğuyor;D;
+107;Göktuğ Ercan;8-A;T.C. İnkılap Tarihi;6;İTA.8.2;Millî uyanış;C;C
+107;Göktuğ Ercan;8-A;T.C. İnkılap Tarihi;7;İTA.8.2;Millî uyanış;B;
+107;Göktuğ Ercan;8-A;T.C. İnkılap Tarihi;8;İTA.8.2;Millî uyanış;A;A
+107;Göktuğ Ercan;8-A;T.C. İnkılap Tarihi;9;İTA.8.2;Millî uyanış;C;C
+107;Göktuğ Ercan;8-A;T.C. İnkılap Tarihi;10;İTA.8.2;Millî uyanış;A;A
+107;Göktuğ Ercan;8-A;Din Kültürü;1;DKAB.8.1;Kader inancı;B;B
+107;Göktuğ Ercan;8-A;Din Kültürü;2;DKAB.8.1;Kader inancı;C;C
+107;Göktuğ Ercan;8-A;Din Kültürü;3;DKAB.8.1;Kader inancı;D;B
+107;Göktuğ Ercan;8-A;Din Kültürü;4;DKAB.8.1;Kader inancı;A;B
+107;Göktuğ Ercan;8-A;Din Kültürü;5;DKAB.8.1;Kader inancı;C;B
+107;Göktuğ Ercan;8-A;Din Kültürü;6;DKAB.8.2;Zekât ve sadaka;A;D
+107;Göktuğ Ercan;8-A;Din Kültürü;7;DKAB.8.2;Zekât ve sadaka;D;A
+107;Göktuğ Ercan;8-A;Din Kültürü;8;DKAB.8.2;Zekât ve sadaka;C;C
+107;Göktuğ Ercan;8-A;Din Kültürü;9;DKAB.8.2;Zekât ve sadaka;A;A
+107;Göktuğ Ercan;8-A;Din Kültürü;10;DKAB.8.2;Zekât ve sadaka;C;
+107;Göktuğ Ercan;8-A;İngilizce;1;E.8.1;Friendship;A;B
+107;Göktuğ Ercan;8-A;İngilizce;2;E.8.1;Friendship;C;A
+107;Göktuğ Ercan;8-A;İngilizce;3;E.8.1;Friendship;D;A
+107;Göktuğ Ercan;8-A;İngilizce;4;E.8.1;Friendship;B;
+107;Göktuğ Ercan;8-A;İngilizce;5;E.8.2;Teen life;D;A
+107;Göktuğ Ercan;8-A;İngilizce;6;E.8.2;Teen life;A;B
+107;Göktuğ Ercan;8-A;İngilizce;7;E.8.2;Teen life;A;A
+107;Göktuğ Ercan;8-A;İngilizce;8;E.8.3;In the kitchen;C;
+107;Göktuğ Ercan;8-A;İngilizce;9;E.8.3;In the kitchen;D;D
+107;Göktuğ Ercan;8-A;İngilizce;10;E.8.3;In the kitchen;D;D
+108;Hira Bulut;8-A;Türkçe;1;T.8.1;Sözcükte ve söz öbeklerinde anlam;C;C
+108;Hira Bulut;8-A;Türkçe;2;T.8.1;Sözcükte ve söz öbeklerinde anlam;C;
+108;Hira Bulut;8-A;Türkçe;3;T.8.1;Sözcükte ve söz öbeklerinde anlam;B;B
+108;Hira Bulut;8-A;Türkçe;4;T.8.1;Sözcükte ve söz öbeklerinde anlam;D;
+108;Hira Bulut;8-A;Türkçe;5;T.8.2;Cümlede anlam;B;B
+108;Hira Bulut;8-A;Türkçe;6;T.8.2;Cümlede anlam;B;B
+108;Hira Bulut;8-A;Türkçe;7;T.8.2;Cümlede anlam;A;A
+108;Hira Bulut;8-A;Türkçe;8;T.8.2;Cümlede anlam;C;
+108;Hira Bulut;8-A;Türkçe;9;T.8.3;Paragrafta ana fikir ve yardımcı fikir;C;
+108;Hira Bulut;8-A;Türkçe;10;T.8.3;Paragrafta ana fikir ve yardımcı fikir;D;A
+108;Hira Bulut;8-A;Türkçe;11;T.8.3;Paragrafta ana fikir ve yardımcı fikir;A;A
+108;Hira Bulut;8-A;Türkçe;12;T.8.3;Paragrafta ana fikir ve yardımcı fikir;B;C
+108;Hira Bulut;8-A;Türkçe;13;T.8.4;Fiilimsiler;B;B
+108;Hira Bulut;8-A;Türkçe;14;T.8.4;Fiilimsiler;C;B
+108;Hira Bulut;8-A;Türkçe;15;T.8.4;Fiilimsiler;D;C
+108;Hira Bulut;8-A;Türkçe;16;T.8.4;Fiilimsiler;A;B
+108;Hira Bulut;8-A;Türkçe;17;T.8.5;Cümlenin ögeleri;B;B
+108;Hira Bulut;8-A;Türkçe;18;T.8.5;Cümlenin ögeleri;C;C
+108;Hira Bulut;8-A;Türkçe;19;T.8.5;Cümlenin ögeleri;C;C
+108;Hira Bulut;8-A;Türkçe;20;T.8.5;Cümlenin ögeleri;D;D
+108;Hira Bulut;8-A;Matematik;1;M.8.1;Çarpanlar ve katlar;D;D
+108;Hira Bulut;8-A;Matematik;2;M.8.1;Çarpanlar ve katlar;C;C
+108;Hira Bulut;8-A;Matematik;3;M.8.1;Çarpanlar ve katlar;B;B
+108;Hira Bulut;8-A;Matematik;4;M.8.1;Çarpanlar ve katlar;B;B
+108;Hira Bulut;8-A;Matematik;5;M.8.2;Üslü ifadeler;C;C
+108;Hira Bulut;8-A;Matematik;6;M.8.2;Üslü ifadeler;B;B
+108;Hira Bulut;8-A;Matematik;7;M.8.2;Üslü ifadeler;D;B
+108;Hira Bulut;8-A;Matematik;8;M.8.2;Üslü ifadeler;C;C
+108;Hira Bulut;8-A;Matematik;9;M.8.3;Kareköklü ifadeler;A;C
+108;Hira Bulut;8-A;Matematik;10;M.8.3;Kareköklü ifadeler;A;A
+108;Hira Bulut;8-A;Matematik;11;M.8.3;Kareköklü ifadeler;B;B
+108;Hira Bulut;8-A;Matematik;12;M.8.3;Kareköklü ifadeler;C;B
+108;Hira Bulut;8-A;Matematik;13;M.8.4;Veri analizi;B;B
+108;Hira Bulut;8-A;Matematik;14;M.8.4;Veri analizi;A;A
+108;Hira Bulut;8-A;Matematik;15;M.8.4;Veri analizi;C;C
+108;Hira Bulut;8-A;Matematik;16;M.8.4;Veri analizi;A;B
+108;Hira Bulut;8-A;Matematik;17;M.8.5;Basit olayların olma olasılığı;D;A
+108;Hira Bulut;8-A;Matematik;18;M.8.5;Basit olayların olma olasılığı;C;C
+108;Hira Bulut;8-A;Matematik;19;M.8.5;Basit olayların olma olasılığı;B;C
+108;Hira Bulut;8-A;Matematik;20;M.8.5;Basit olayların olma olasılığı;D;D
+108;Hira Bulut;8-A;Fen Bilimleri;1;F.8.1;Mevsimler ve iklim;C;C
+108;Hira Bulut;8-A;Fen Bilimleri;2;F.8.1;Mevsimler ve iklim;A;A
+108;Hira Bulut;8-A;Fen Bilimleri;3;F.8.1;Mevsimler ve iklim;B;B
+108;Hira Bulut;8-A;Fen Bilimleri;4;F.8.1;Mevsimler ve iklim;B;C
+108;Hira Bulut;8-A;Fen Bilimleri;5;F.8.1;Mevsimler ve iklim;C;C
+108;Hira Bulut;8-A;Fen Bilimleri;6;F.8.2;DNA ve genetik kod;B;B
+108;Hira Bulut;8-A;Fen Bilimleri;7;F.8.2;DNA ve genetik kod;B;B
+108;Hira Bulut;8-A;Fen Bilimleri;8;F.8.2;DNA ve genetik kod;C;C
+108;Hira Bulut;8-A;Fen Bilimleri;9;F.8.2;DNA ve genetik kod;A;A
+108;Hira Bulut;8-A;Fen Bilimleri;10;F.8.2;DNA ve genetik kod;D;
+108;Hira Bulut;8-A;Fen Bilimleri;11;F.8.3;Basınç;A;A
+108;Hira Bulut;8-A;Fen Bilimleri;12;F.8.3;Basınç;A;D
+108;Hira Bulut;8-A;Fen Bilimleri;13;F.8.3;Basınç;A;A
+108;Hira Bulut;8-A;Fen Bilimleri;14;F.8.3;Basınç;D;D
+108;Hira Bulut;8-A;Fen Bilimleri;15;F.8.3;Basınç;D;D
+108;Hira Bulut;8-A;Fen Bilimleri;16;F.8.4;Madde ve endüstri;C;C
+108;Hira Bulut;8-A;Fen Bilimleri;17;F.8.4;Madde ve endüstri;B;A
+108;Hira Bulut;8-A;Fen Bilimleri;18;F.8.4;Madde ve endüstri;B;
+108;Hira Bulut;8-A;Fen Bilimleri;19;F.8.4;Madde ve endüstri;B;B
+108;Hira Bulut;8-A;Fen Bilimleri;20;F.8.4;Madde ve endüstri;D;D
+108;Hira Bulut;8-A;T.C. İnkılap Tarihi;1;İTA.8.1;Bir kahraman doğuyor;C;C
+108;Hira Bulut;8-A;T.C. İnkılap Tarihi;2;İTA.8.1;Bir kahraman doğuyor;D;D
+108;Hira Bulut;8-A;T.C. İnkılap Tarihi;3;İTA.8.1;Bir kahraman doğuyor;D;D
+108;Hira Bulut;8-A;T.C. İnkılap Tarihi;4;İTA.8.1;Bir kahraman doğuyor;A;A
+108;Hira Bulut;8-A;T.C. İnkılap Tarihi;5;İTA.8.1;Bir kahraman doğuyor;D;C
+108;Hira Bulut;8-A;T.C. İnkılap Tarihi;6;İTA.8.2;Millî uyanış;C;C
+108;Hira Bulut;8-A;T.C. İnkılap Tarihi;7;İTA.8.2;Millî uyanış;B;A
+108;Hira Bulut;8-A;T.C. İnkılap Tarihi;8;İTA.8.2;Millî uyanış;A;
+108;Hira Bulut;8-A;T.C. İnkılap Tarihi;9;İTA.8.2;Millî uyanış;C;C
+108;Hira Bulut;8-A;T.C. İnkılap Tarihi;10;İTA.8.2;Millî uyanış;A;A
+108;Hira Bulut;8-A;Din Kültürü;1;DKAB.8.1;Kader inancı;B;D
+108;Hira Bulut;8-A;Din Kültürü;2;DKAB.8.1;Kader inancı;C;A
+108;Hira Bulut;8-A;Din Kültürü;3;DKAB.8.1;Kader inancı;D;
+108;Hira Bulut;8-A;Din Kültürü;4;DKAB.8.1;Kader inancı;A;B
+108;Hira Bulut;8-A;Din Kültürü;5;DKAB.8.1;Kader inancı;C;
+108;Hira Bulut;8-A;Din Kültürü;6;DKAB.8.2;Zekât ve sadaka;A;
+108;Hira Bulut;8-A;Din Kültürü;7;DKAB.8.2;Zekât ve sadaka;D;B
+108;Hira Bulut;8-A;Din Kültürü;8;DKAB.8.2;Zekât ve sadaka;C;
+108;Hira Bulut;8-A;Din Kültürü;9;DKAB.8.2;Zekât ve sadaka;A;A
+108;Hira Bulut;8-A;Din Kültürü;10;DKAB.8.2;Zekât ve sadaka;C;A
+108;Hira Bulut;8-A;İngilizce;1;E.8.1;Friendship;A;A
+108;Hira Bulut;8-A;İngilizce;2;E.8.1;Friendship;C;A
+108;Hira Bulut;8-A;İngilizce;3;E.8.1;Friendship;D;B
+108;Hira Bulut;8-A;İngilizce;4;E.8.1;Friendship;B;A
+108;Hira Bulut;8-A;İngilizce;5;E.8.2;Teen life;D;D
+108;Hira Bulut;8-A;İngilizce;6;E.8.2;Teen life;A;A
+108;Hira Bulut;8-A;İngilizce;7;E.8.2;Teen life;A;D
+108;Hira Bulut;8-A;İngilizce;8;E.8.3;In the kitchen;C;B
+108;Hira Bulut;8-A;İngilizce;9;E.8.3;In the kitchen;D;B
+108;Hira Bulut;8-A;İngilizce;10;E.8.3;In the kitchen;D;C
+109;İlkay Torun;8-A;Türkçe;1;T.8.1;Sözcükte ve söz öbeklerinde anlam;C;C
+109;İlkay Torun;8-A;Türkçe;2;T.8.1;Sözcükte ve söz öbeklerinde anlam;C;C
+109;İlkay Torun;8-A;Türkçe;3;T.8.1;Sözcükte ve söz öbeklerinde anlam;B;B
+109;İlkay Torun;8-A;Türkçe;4;T.8.1;Sözcükte ve söz öbeklerinde anlam;D;D
+109;İlkay Torun;8-A;Türkçe;5;T.8.2;Cümlede anlam;B;B
+109;İlkay Torun;8-A;Türkçe;6;T.8.2;Cümlede anlam;B;B
+109;İlkay Torun;8-A;Türkçe;7;T.8.2;Cümlede anlam;A;A
+109;İlkay Torun;8-A;Türkçe;8;T.8.2;Cümlede anlam;C;C
+109;İlkay Torun;8-A;Türkçe;9;T.8.3;Paragrafta ana fikir ve yardımcı fikir;C;C
+109;İlkay Torun;8-A;Türkçe;10;T.8.3;Paragrafta ana fikir ve yardımcı fikir;D;D
+109;İlkay Torun;8-A;Türkçe;11;T.8.3;Paragrafta ana fikir ve yardımcı fikir;A;A
+109;İlkay Torun;8-A;Türkçe;12;T.8.3;Paragrafta ana fikir ve yardımcı fikir;B;B
+109;İlkay Torun;8-A;Türkçe;13;T.8.4;Fiilimsiler;B;B
+109;İlkay Torun;8-A;Türkçe;14;T.8.4;Fiilimsiler;C;C
+109;İlkay Torun;8-A;Türkçe;15;T.8.4;Fiilimsiler;D;D
+109;İlkay Torun;8-A;Türkçe;16;T.8.4;Fiilimsiler;A;A
+109;İlkay Torun;8-A;Türkçe;17;T.8.5;Cümlenin ögeleri;B;B
+109;İlkay Torun;8-A;Türkçe;18;T.8.5;Cümlenin ögeleri;C;C
+109;İlkay Torun;8-A;Türkçe;19;T.8.5;Cümlenin ögeleri;C;C
+109;İlkay Torun;8-A;Türkçe;20;T.8.5;Cümlenin ögeleri;D;D
+109;İlkay Torun;8-A;Matematik;1;M.8.1;Çarpanlar ve katlar;D;D
+109;İlkay Torun;8-A;Matematik;2;M.8.1;Çarpanlar ve katlar;C;C
+109;İlkay Torun;8-A;Matematik;3;M.8.1;Çarpanlar ve katlar;B;B
+109;İlkay Torun;8-A;Matematik;4;M.8.1;Çarpanlar ve katlar;B;B
+109;İlkay Torun;8-A;Matematik;5;M.8.2;Üslü ifadeler;C;B
+109;İlkay Torun;8-A;Matematik;6;M.8.2;Üslü ifadeler;B;
+109;İlkay Torun;8-A;Matematik;7;M.8.2;Üslü ifadeler;D;D
+109;İlkay Torun;8-A;Matematik;8;M.8.2;Üslü ifadeler;C;B
+109;İlkay Torun;8-A;Matematik;9;M.8.3;Kareköklü ifadeler;A;A
+109;İlkay Torun;8-A;Matematik;10;M.8.3;Kareköklü ifadeler;A;A
+109;İlkay Torun;8-A;Matematik;11;M.8.3;Kareköklü ifadeler;B;B
+109;İlkay Torun;8-A;Matematik;12;M.8.3;Kareköklü ifadeler;C;C
+109;İlkay Torun;8-A;Matematik;13;M.8.4;Veri analizi;B;
+109;İlkay Torun;8-A;Matematik;14;M.8.4;Veri analizi;A;A
+109;İlkay Torun;8-A;Matematik;15;M.8.4;Veri analizi;C;C
+109;İlkay Torun;8-A;Matematik;16;M.8.4;Veri analizi;A;A
+109;İlkay Torun;8-A;Matematik;17;M.8.5;Basit olayların olma olasılığı;D;C
+109;İlkay Torun;8-A;Matematik;18;M.8.5;Basit olayların olma olasılığı;C;D
+109;İlkay Torun;8-A;Matematik;19;M.8.5;Basit olayların olma olasılığı;B;
+109;İlkay Torun;8-A;Matematik;20;M.8.5;Basit olayların olma olasılığı;D;
+109;İlkay Torun;8-A;Fen Bilimleri;1;F.8.1;Mevsimler ve iklim;C;A
+109;İlkay Torun;8-A;Fen Bilimleri;2;F.8.1;Mevsimler ve iklim;A;A
+109;İlkay Torun;8-A;Fen Bilimleri;3;F.8.1;Mevsimler ve iklim;B;B
+109;İlkay Torun;8-A;Fen Bilimleri;4;F.8.1;Mevsimler ve iklim;B;B
+109;İlkay Torun;8-A;Fen Bilimleri;5;F.8.1;Mevsimler ve iklim;C;C
+109;İlkay Torun;8-A;Fen Bilimleri;6;F.8.2;DNA ve genetik kod;B;B
+109;İlkay Torun;8-A;Fen Bilimleri;7;F.8.2;DNA ve genetik kod;B;B
+109;İlkay Torun;8-A;Fen Bilimleri;8;F.8.2;DNA ve genetik kod;C;C
+109;İlkay Torun;8-A;Fen Bilimleri;9;F.8.2;DNA ve genetik kod;A;A
+109;İlkay Torun;8-A;Fen Bilimleri;10;F.8.2;DNA ve genetik kod;D;D
+109;İlkay Torun;8-A;Fen Bilimleri;11;F.8.3;Basınç;A;A
+109;İlkay Torun;8-A;Fen Bilimleri;12;F.8.3;Basınç;A;A
+109;İlkay Torun;8-A;Fen Bilimleri;13;F.8.3;Basınç;A;
+109;İlkay Torun;8-A;Fen Bilimleri;14;F.8.3;Basınç;D;D
+109;İlkay Torun;8-A;Fen Bilimleri;15;F.8.3;Basınç;D;D
+109;İlkay Torun;8-A;Fen Bilimleri;16;F.8.4;Madde ve endüstri;C;C
+109;İlkay Torun;8-A;Fen Bilimleri;17;F.8.4;Madde ve endüstri;B;B
+109;İlkay Torun;8-A;Fen Bilimleri;18;F.8.4;Madde ve endüstri;B;B
+109;İlkay Torun;8-A;Fen Bilimleri;19;F.8.4;Madde ve endüstri;B;B
+109;İlkay Torun;8-A;Fen Bilimleri;20;F.8.4;Madde ve endüstri;D;D
+109;İlkay Torun;8-A;T.C. İnkılap Tarihi;1;İTA.8.1;Bir kahraman doğuyor;C;C
+109;İlkay Torun;8-A;T.C. İnkılap Tarihi;2;İTA.8.1;Bir kahraman doğuyor;D;D
+109;İlkay Torun;8-A;T.C. İnkılap Tarihi;3;İTA.8.1;Bir kahraman doğuyor;D;
+109;İlkay Torun;8-A;T.C. İnkılap Tarihi;4;İTA.8.1;Bir kahraman doğuyor;A;A
+109;İlkay Torun;8-A;T.C. İnkılap Tarihi;5;İTA.8.1;Bir kahraman doğuyor;D;D
+109;İlkay Torun;8-A;T.C. İnkılap Tarihi;6;İTA.8.2;Millî uyanış;C;C
+109;İlkay Torun;8-A;T.C. İnkılap Tarihi;7;İTA.8.2;Millî uyanış;B;C
+109;İlkay Torun;8-A;T.C. İnkılap Tarihi;8;İTA.8.2;Millî uyanış;A;A
+109;İlkay Torun;8-A;T.C. İnkılap Tarihi;9;İTA.8.2;Millî uyanış;C;A
+109;İlkay Torun;8-A;T.C. İnkılap Tarihi;10;İTA.8.2;Millî uyanış;A;A
+109;İlkay Torun;8-A;Din Kültürü;1;DKAB.8.1;Kader inancı;B;B
+109;İlkay Torun;8-A;Din Kültürü;2;DKAB.8.1;Kader inancı;C;
+109;İlkay Torun;8-A;Din Kültürü;3;DKAB.8.1;Kader inancı;D;D
+109;İlkay Torun;8-A;Din Kültürü;4;DKAB.8.1;Kader inancı;A;
+109;İlkay Torun;8-A;Din Kültürü;5;DKAB.8.1;Kader inancı;C;C
+109;İlkay Torun;8-A;Din Kültürü;6;DKAB.8.2;Zekât ve sadaka;A;A
+109;İlkay Torun;8-A;Din Kültürü;7;DKAB.8.2;Zekât ve sadaka;D;D
+109;İlkay Torun;8-A;Din Kültürü;8;DKAB.8.2;Zekât ve sadaka;C;C
+109;İlkay Torun;8-A;Din Kültürü;9;DKAB.8.2;Zekât ve sadaka;A;A
+109;İlkay Torun;8-A;Din Kültürü;10;DKAB.8.2;Zekât ve sadaka;C;C
+109;İlkay Torun;8-A;İngilizce;1;E.8.1;Friendship;A;A
+109;İlkay Torun;8-A;İngilizce;2;E.8.1;Friendship;C;C
+109;İlkay Torun;8-A;İngilizce;3;E.8.1;Friendship;D;D
+109;İlkay Torun;8-A;İngilizce;4;E.8.1;Friendship;B;B
+109;İlkay Torun;8-A;İngilizce;5;E.8.2;Teen life;D;D
+109;İlkay Torun;8-A;İngilizce;6;E.8.2;Teen life;A;A
+109;İlkay Torun;8-A;İngilizce;7;E.8.2;Teen life;A;A
+109;İlkay Torun;8-A;İngilizce;8;E.8.3;In the kitchen;C;C
+109;İlkay Torun;8-A;İngilizce;9;E.8.3;In the kitchen;D;C
+109;İlkay Torun;8-A;İngilizce;10;E.8.3;In the kitchen;D;C
+110;Kerem Ova;8-A;Türkçe;1;T.8.1;Sözcükte ve söz öbeklerinde anlam;C;C
+110;Kerem Ova;8-A;Türkçe;2;T.8.1;Sözcükte ve söz öbeklerinde anlam;C;C
+110;Kerem Ova;8-A;Türkçe;3;T.8.1;Sözcükte ve söz öbeklerinde anlam;B;B
+110;Kerem Ova;8-A;Türkçe;4;T.8.1;Sözcükte ve söz öbeklerinde anlam;D;D
+110;Kerem Ova;8-A;Türkçe;5;T.8.2;Cümlede anlam;B;B
+110;Kerem Ova;8-A;Türkçe;6;T.8.2;Cümlede anlam;B;B
+110;Kerem Ova;8-A;Türkçe;7;T.8.2;Cümlede anlam;A;A
+110;Kerem Ova;8-A;Türkçe;8;T.8.2;Cümlede anlam;C;
+110;Kerem Ova;8-A;Türkçe;9;T.8.3;Paragrafta ana fikir ve yardımcı fikir;C;C
+110;Kerem Ova;8-A;Türkçe;10;T.8.3;Paragrafta ana fikir ve yardımcı fikir;D;D
+110;Kerem Ova;8-A;Türkçe;11;T.8.3;Paragrafta ana fikir ve yardımcı fikir;A;A
+110;Kerem Ova;8-A;Türkçe;12;T.8.3;Paragrafta ana fikir ve yardımcı fikir;B;
+110;Kerem Ova;8-A;Türkçe;13;T.8.4;Fiilimsiler;B;C
+110;Kerem Ova;8-A;Türkçe;14;T.8.4;Fiilimsiler;C;C
+110;Kerem Ova;8-A;Türkçe;15;T.8.4;Fiilimsiler;D;B
+110;Kerem Ova;8-A;Türkçe;16;T.8.4;Fiilimsiler;A;C
+110;Kerem Ova;8-A;Türkçe;17;T.8.5;Cümlenin ögeleri;B;B
+110;Kerem Ova;8-A;Türkçe;18;T.8.5;Cümlenin ögeleri;C;C
+110;Kerem Ova;8-A;Türkçe;19;T.8.5;Cümlenin ögeleri;C;C
+110;Kerem Ova;8-A;Türkçe;20;T.8.5;Cümlenin ögeleri;D;D
+110;Kerem Ova;8-A;Matematik;1;M.8.1;Çarpanlar ve katlar;D;C
+110;Kerem Ova;8-A;Matematik;2;M.8.1;Çarpanlar ve katlar;C;C
+110;Kerem Ova;8-A;Matematik;3;M.8.1;Çarpanlar ve katlar;B;D
+110;Kerem Ova;8-A;Matematik;4;M.8.1;Çarpanlar ve katlar;B;B
+110;Kerem Ova;8-A;Matematik;5;M.8.2;Üslü ifadeler;C;C
+110;Kerem Ova;8-A;Matematik;6;M.8.2;Üslü ifadeler;B;B
+110;Kerem Ova;8-A;Matematik;7;M.8.2;Üslü ifadeler;D;D
+110;Kerem Ova;8-A;Matematik;8;M.8.2;Üslü ifadeler;C;
+110;Kerem Ova;8-A;Matematik;9;M.8.3;Kareköklü ifadeler;A;A
+110;Kerem Ova;8-A;Matematik;10;M.8.3;Kareköklü ifadeler;A;A
+110;Kerem Ova;8-A;Matematik;11;M.8.3;Kareköklü ifadeler;B;
+110;Kerem Ova;8-A;Matematik;12;M.8.3;Kareköklü ifadeler;C;C
+110;Kerem Ova;8-A;Matematik;13;M.8.4;Veri analizi;B;A
+110;Kerem Ova;8-A;Matematik;14;M.8.4;Veri analizi;A;C
+110;Kerem Ova;8-A;Matematik;15;M.8.4;Veri analizi;C;C
+110;Kerem Ova;8-A;Matematik;16;M.8.4;Veri analizi;A;A
+110;Kerem Ova;8-A;Matematik;17;M.8.5;Basit olayların olma olasılığı;D;
+110;Kerem Ova;8-A;Matematik;18;M.8.5;Basit olayların olma olasılığı;C;C
+110;Kerem Ova;8-A;Matematik;19;M.8.5;Basit olayların olma olasılığı;B;B
+110;Kerem Ova;8-A;Matematik;20;M.8.5;Basit olayların olma olasılığı;D;A
+110;Kerem Ova;8-A;Fen Bilimleri;1;F.8.1;Mevsimler ve iklim;C;C
+110;Kerem Ova;8-A;Fen Bilimleri;2;F.8.1;Mevsimler ve iklim;A;A
+110;Kerem Ova;8-A;Fen Bilimleri;3;F.8.1;Mevsimler ve iklim;B;B
+110;Kerem Ova;8-A;Fen Bilimleri;4;F.8.1;Mevsimler ve iklim;B;B
+110;Kerem Ova;8-A;Fen Bilimleri;5;F.8.1;Mevsimler ve iklim;C;C
+110;Kerem Ova;8-A;Fen Bilimleri;6;F.8.2;DNA ve genetik kod;B;B
+110;Kerem Ova;8-A;Fen Bilimleri;7;F.8.2;DNA ve genetik kod;B;B
+110;Kerem Ova;8-A;Fen Bilimleri;8;F.8.2;DNA ve genetik kod;C;B
+110;Kerem Ova;8-A;Fen Bilimleri;9;F.8.2;DNA ve genetik kod;A;A
+110;Kerem Ova;8-A;Fen Bilimleri;10;F.8.2;DNA ve genetik kod;D;A
+110;Kerem Ova;8-A;Fen Bilimleri;11;F.8.3;Basınç;A;C
+110;Kerem Ova;8-A;Fen Bilimleri;12;F.8.3;Basınç;A;C
+110;Kerem Ova;8-A;Fen Bilimleri;13;F.8.3;Basınç;A;A
+110;Kerem Ova;8-A;Fen Bilimleri;14;F.8.3;Basınç;D;A
+110;Kerem Ova;8-A;Fen Bilimleri;15;F.8.3;Basınç;D;A
+110;Kerem Ova;8-A;Fen Bilimleri;16;F.8.4;Madde ve endüstri;C;C
+110;Kerem Ova;8-A;Fen Bilimleri;17;F.8.4;Madde ve endüstri;B;B
+110;Kerem Ova;8-A;Fen Bilimleri;18;F.8.4;Madde ve endüstri;B;B
+110;Kerem Ova;8-A;Fen Bilimleri;19;F.8.4;Madde ve endüstri;B;B
+110;Kerem Ova;8-A;Fen Bilimleri;20;F.8.4;Madde ve endüstri;D;
+110;Kerem Ova;8-A;T.C. İnkılap Tarihi;1;İTA.8.1;Bir kahraman doğuyor;C;A
+110;Kerem Ova;8-A;T.C. İnkılap Tarihi;2;İTA.8.1;Bir kahraman doğuyor;D;D
+110;Kerem Ova;8-A;T.C. İnkılap Tarihi;3;İTA.8.1;Bir kahraman doğuyor;D;
+110;Kerem Ova;8-A;T.C. İnkılap Tarihi;4;İTA.8.1;Bir kahraman doğuyor;A;D
+110;Kerem Ova;8-A;T.C. İnkılap Tarihi;5;İTA.8.1;Bir kahraman doğuyor;D;
+110;Kerem Ova;8-A;T.C. İnkılap Tarihi;6;İTA.8.2;Millî uyanış;C;
+110;Kerem Ova;8-A;T.C. İnkılap Tarihi;7;İTA.8.2;Millî uyanış;B;
+110;Kerem Ova;8-A;T.C. İnkılap Tarihi;8;İTA.8.2;Millî uyanış;A;A
+110;Kerem Ova;8-A;T.C. İnkılap Tarihi;9;İTA.8.2;Millî uyanış;C;C
+110;Kerem Ova;8-A;T.C. İnkılap Tarihi;10;İTA.8.2;Millî uyanış;A;A
+110;Kerem Ova;8-A;Din Kültürü;1;DKAB.8.1;Kader inancı;B;A
+110;Kerem Ova;8-A;Din Kültürü;2;DKAB.8.1;Kader inancı;C;C
+110;Kerem Ova;8-A;Din Kültürü;3;DKAB.8.1;Kader inancı;D;A
+110;Kerem Ova;8-A;Din Kültürü;4;DKAB.8.1;Kader inancı;A;
+110;Kerem Ova;8-A;Din Kültürü;5;DKAB.8.1;Kader inancı;C;
+110;Kerem Ova;8-A;Din Kültürü;6;DKAB.8.2;Zekât ve sadaka;A;A
+110;Kerem Ova;8-A;Din Kültürü;7;DKAB.8.2;Zekât ve sadaka;D;D
+110;Kerem Ova;8-A;Din Kültürü;8;DKAB.8.2;Zekât ve sadaka;C;C
+110;Kerem Ova;8-A;Din Kültürü;9;DKAB.8.2;Zekât ve sadaka;A;B
+110;Kerem Ova;8-A;Din Kültürü;10;DKAB.8.2;Zekât ve sadaka;C;D
+110;Kerem Ova;8-A;İngilizce;1;E.8.1;Friendship;A;C
+110;Kerem Ova;8-A;İngilizce;2;E.8.1;Friendship;C;C
+110;Kerem Ova;8-A;İngilizce;3;E.8.1;Friendship;D;C
+110;Kerem Ova;8-A;İngilizce;4;E.8.1;Friendship;B;D
+110;Kerem Ova;8-A;İngilizce;5;E.8.2;Teen life;D;
+110;Kerem Ova;8-A;İngilizce;6;E.8.2;Teen life;A;A
+110;Kerem Ova;8-A;İngilizce;7;E.8.2;Teen life;A;A
+110;Kerem Ova;8-A;İngilizce;8;E.8.3;In the kitchen;C;B
+110;Kerem Ova;8-A;İngilizce;9;E.8.3;In the kitchen;D;D
+110;Kerem Ova;8-A;İngilizce;10;E.8.3;In the kitchen;D;C
