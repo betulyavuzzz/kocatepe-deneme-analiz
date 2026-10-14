@@ -1,0 +1,1 @@
+# kocatepe-deneme-analiz
